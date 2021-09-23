@@ -1,0 +1,1002 @@
+
+2021-03-11T23:58:01.692243+08:00|rsyslogd[-]| [origin software="rsyslogd" swVersion="8.24.0" x-pid="42138" x-info="http://www.rsyslog.com"] rsyslogd was HUPed
+2021-03-11T23:58:41.176+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-11T23:58:41.176+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-11T23:58:41.176+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-11T23:58:41.176+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-11T23:59:01.120753+08:00|systemd[-]|Started Session 1010046 of user cps.
+2021-03-11T23:59:01.123278+08:00|systemd[-]|Started Session 1010047 of user root.
+2021-03-11T23:59:01.141982+08:00|systemd[-]|Started Session 1010048 of user root.
+2021-03-11T23:59:01.145491+08:00|systemd[-]|Started Session 1010049 of user root.
+2021-03-11T23:59:41.176+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-11T23:59:41.176+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-11T23:59:41.176+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-11T23:59:41.176+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-11T23:59:55.731506+08:00|kernel[-]|[14602746.412747] bash (6418): drop_caches: 3
+2021-03-12T00:00:01.558699+08:00|systemd[-]|Started Session 1010050 of user root.
+2021-03-12T00:00:01.561928+08:00|systemd[-]|Started Session 1010051 of user cps.
+2021-03-12T00:00:01.563763+08:00|systemd[-]|Started Session 1010054 of user root.
+2021-03-12T00:00:01.565437+08:00|systemd[-]|Started Session 1010053 of user root.
+2021-03-12T00:00:01.566855+08:00|systemd[-]|Started Session 1010052 of user root.
+2021-03-12T00:00:01.568496+08:00|systemd[-]|Started Session 1010055 of user root.
+2021-03-12T00:00:05.998203+08:00|uvp_hotpatch_status[12620]|uvp_hotpatch_status start.
+2021-03-12T00:00:06.059443+08:00|uvp_hotpatch_status[12718]|No hotpatch install dir found in /etc/sysconfig/hotpatch.d/01-uvp.
+2021-03-12T00:00:06.060367+08:00|uvp_hotpatch_status[12727]|uvp_hotpatch_status end.
+2021-03-12T00:00:41.176+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:00:41.176+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:00:41.176+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:00:41.176+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:01:01.139183+08:00|systemd[-]|Started Session 1010056 of user cps.
+2021-03-12T00:01:01.144560+08:00|systemd[-]|Started Session 1010057 of user root.
+2021-03-12T00:01:01.149370+08:00|systemd[-]|Started Session 1010058 of user root.
+2021-03-12T00:01:01.152876+08:00|systemd[-]|Started Session 1010059 of user root.
+2021-03-12T00:01:01.236253+08:00|rsyslogd[-]|imjournal: journal reloaded... [v8.24.0 try http://www.rsyslog.com/e/0 ]
+2021-03-12T00:01:41.176+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:01:41.176+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:01:41.176+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:01:41.176+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:02:01.571866+08:00|systemd[-]|Started Session 1010060 of user root.
+2021-03-12T00:02:01.577972+08:00|systemd[-]|Started Session 1010061 of user root.
+2021-03-12T00:02:01.583136+08:00|systemd[-]|Started Session 1010062 of user cps.
+2021-03-12T00:02:01.585329+08:00|systemd[-]|Started Session 1010063 of user root.
+2021-03-12T00:02:10.755604+08:00|MONITOR[68876]|Error: [smio_usr_send_req_to_jbod:311] connect error.
+2021-03-12T00:02:41.176+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:02:41.176+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:02:41.176+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:02:41.176+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:02:49.427089+08:00|cloud_agent[-]|[../src/util/log.c,573] dsa_log_change_file:error number = 2, error string = No such file or directory
+2021-03-12T00:02:49.427258+08:00|cloud_agent[-]|[../src/util/log.c,574] dsa_log_change_file:rename failed.oldname=/var/log/cloudagent/cloud_agent.log,newname=/var/log/cloudagent/log-FSA-cloud_agent.log.2021-03-12_00-02-49
+2021-03-12T00:02:49.689167+08:00|ntpd[12515]|ntpd 4.2.6p5@1.2349-o Tue Jun 16 22:13:22 UTC 2020 (1)
+2021-03-12T00:02:49.689525+08:00|ntpd[12515]|proto: precision = 0.040 usec
+2021-03-12T00:02:49.689759+08:00|ntpd[12515]|0.0.0.0:0 c01d 0d kern kernel time sync enabled
+2021-03-12T00:02:49.690795+08:00|ntpd[12515]|Listen and drop on 0 v4wildcard 0.0.0.0:0 UDP 123
+2021-03-12T00:02:49.692150+08:00|ntpd[12515]|Listen and drop on 1 v6wildcard :: UDP 123
+2021-03-12T00:02:49.692314+08:00|ntpd[12515]|Listen normally on 2 lo 0.0.0.0:0 UDP 123
+2021-03-12T00:02:49.692453+08:00|ntpd[12515]|Listen normally on 3 brcps 0.0.0.0:0 UDP 123
+2021-03-12T00:02:49.692602+08:00|ntpd[12515]|Listen normally on 4 storage_data1 0.0.0.0:0 UDP 123
+2021-03-12T00:02:49.692740+08:00|ntpd[12515]|Listen normally on 5 external_om 0.0.0.0:0 UDP 123
+2021-03-12T00:02:49.692863+08:00|ntpd[12515]|Listen normally on 6 brcps ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:02:49.692979+08:00|ntpd[12515]|Listen normally on 7 lo ::1 UDP 123
+2021-03-12T00:02:49.693085+08:00|ntpd[12515]|Listen normally on 8 om-physnet2 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:02:49.693205+08:00|ntpd[12515]|Listen normally on 9 dt-physnet1 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:02:49.693318+08:00|ntpd[12515]|Listen normally on 10 external_om ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:02:49.693423+08:00|ntpd[12515]|Listen normally on 11 br-int ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:02:49.693553+08:00|ntpd[12515]|Listen normally on 12 external_api ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:02:49.693664+08:00|ntpd[12515]|Listen normally on 13 dt-physnet2 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:02:49.693778+08:00|ntpd[12515]|Listen normally on 14 br-physnet2 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:02:49.693886+08:00|ntpd[12515]|Listen normally on 15 arping-physnet1 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:02:49.693991+08:00|ntpd[12515]|Listen normally on 16 storage_data1 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:02:49.694095+08:00|ntpd[12515]|Listen normally on 17 ovs-netdev ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:02:49.694203+08:00|ntpd[12515]|Listen normally on 18 trunk0 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:02:49.694329+08:00|ntpd[12515]|Listening on routing socket on fd #35 for interface updates
+2021-03-12T00:02:49.694457+08:00|ntpd[12515]|0.0.0.0:0 c016 06 restart
+2021-03-12T00:02:49.694574+08:00|ntpd[12515]|0.0.0.0:0 c012 02 freq_set kernel 0.000 PPM
+2021-03-12T00:02:49.694695+08:00|ntpd[12515]|0.0.0.0:0 c011 01 freq_not_set
+2021-03-12T00:02:52.689822+08:00|ntpd[12515]|ntpd: time slew +0.001931 s
+2021-03-12T00:03:01.988094+08:00|systemd[-]|Started Session 1010064 of user cps.
+2021-03-12T00:03:01.992042+08:00|systemd[-]|Started Session 1010066 of user root.
+2021-03-12T00:03:01.995801+08:00|systemd[-]|Started Session 1010067 of user root.
+2021-03-12T00:03:01.998894+08:00|systemd[-]|Started Session 1010065 of user root.
+2021-03-12T00:03:41.176+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:03:41.176+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:03:41.176+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:03:41.176+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:04:01.514912+08:00|systemd[-]|Started Session 1010068 of user root.
+2021-03-12T00:04:01.520715+08:00|systemd[-]|Started Session 1010069 of user cps.
+2021-03-12T00:04:01.528258+08:00|systemd[-]|Started Session 1010070 of user root.
+2021-03-12T00:04:01.531649+08:00|systemd[-]|Started Session 1010071 of user root.
+2021-03-12T00:04:41.176+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:04:41.176+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:04:41.176+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:04:41.176+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:05:01.173604+08:00|systemd[-]|Started Session 1010072 of user cps.
+2021-03-12T00:05:01.177622+08:00|systemd[-]|Started Session 1010073 of user root.
+2021-03-12T00:05:01.182713+08:00|systemd[-]|Started Session 1010074 of user root.
+2021-03-12T00:05:01.188565+08:00|systemd[-]|Started Session 1010075 of user root.
+2021-03-12T00:05:41.176+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:05:41.176+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:05:41.176+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:05:41.176+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:06:01.705222+08:00|systemd[-]|Started Session 1010076 of user cps.
+2021-03-12T00:06:01.709349+08:00|systemd[-]|Started Session 1010077 of user root.
+2021-03-12T00:06:01.710589+08:00|systemd[-]|Started Session 1010079 of user root.
+2021-03-12T00:06:01.713559+08:00|systemd[-]|Started Session 1010078 of user root.
+2021-03-12T00:06:41.176+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:06:41.176+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:06:41.176+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:06:41.176+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:06:54.556772+08:00|rsyslogd[-]|imjournal: journal reloaded... [v8.24.0 try http://www.rsyslog.com/e/0 ]
+2021-03-12T00:07:01.309795+08:00|systemd[-]|Started Session 1010080 of user root.
+2021-03-12T00:07:01.313505+08:00|systemd[-]|Started Session 1010081 of user cps.
+2021-03-12T00:07:01.318995+08:00|systemd[-]|Started Session 1010083 of user root.
+2021-03-12T00:07:01.320737+08:00|systemd[-]|Started Session 1010082 of user root.
+2021-03-12T00:07:10.778256+08:00|MONITOR[59212]|Error: [smio_usr_send_req_to_jbod:311] connect error.
+2021-03-12T00:07:41.176+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:07:41.176+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:07:41.176+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:07:41.176+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:07:53.692916+08:00|ntpd[6869]|ntpd 4.2.6p5@1.2349-o Tue Jun 16 22:13:22 UTC 2020 (1)
+2021-03-12T00:07:53.693104+08:00|ntpd[6869]|proto: precision = 0.044 usec
+2021-03-12T00:07:53.693205+08:00|ntpd[6869]|0.0.0.0:0 c01d 0d kern kernel time sync enabled
+2021-03-12T00:07:53.693635+08:00|ntpd[6869]|Listen and drop on 0 v4wildcard 0.0.0.0:0 UDP 123
+2021-03-12T00:07:53.695392+08:00|ntpd[6869]|Listen and drop on 1 v6wildcard :: UDP 123
+2021-03-12T00:07:53.695544+08:00|ntpd[6869]|Listen normally on 2 lo 0.0.0.0:0 UDP 123
+2021-03-12T00:07:53.695676+08:00|ntpd[6869]|Listen normally on 3 brcps 0.0.0.0:0 UDP 123
+2021-03-12T00:07:53.695788+08:00|ntpd[6869]|Listen normally on 4 storage_data1 0.0.0.0:0 UDP 123
+2021-03-12T00:07:53.695897+08:00|ntpd[6869]|Listen normally on 5 external_om 0.0.0.0:0 UDP 123
+2021-03-12T00:07:53.696007+08:00|ntpd[6869]|Listen normally on 6 brcps ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:07:53.696114+08:00|ntpd[6869]|Listen normally on 7 lo ::1 UDP 123
+2021-03-12T00:07:53.696217+08:00|ntpd[6869]|Listen normally on 8 om-physnet2 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:07:53.696320+08:00|ntpd[6869]|Listen normally on 9 dt-physnet1 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:07:53.696425+08:00|ntpd[6869]|Listen normally on 10 external_om ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:07:53.696539+08:00|ntpd[6869]|Listen normally on 11 br-int ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:07:53.696656+08:00|ntpd[6869]|Listen normally on 12 external_api ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:07:53.696760+08:00|ntpd[6869]|Listen normally on 13 dt-physnet2 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:07:53.696866+08:00|ntpd[6869]|Listen normally on 14 br-physnet2 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:07:53.696969+08:00|ntpd[6869]|Listen normally on 15 arping-physnet1 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:07:53.697070+08:00|ntpd[6869]|Listen normally on 16 storage_data1 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:07:53.697172+08:00|ntpd[6869]|Listen normally on 17 ovs-netdev ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:07:53.697279+08:00|ntpd[6869]|Listen normally on 18 trunk0 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:07:53.697382+08:00|ntpd[6869]|Listening on routing socket on fd #35 for interface updates
+2021-03-12T00:07:53.698096+08:00|ntpd[6869]|0.0.0.0:0 c016 06 restart
+2021-03-12T00:07:53.698248+08:00|ntpd[6869]|0.0.0.0:0 c012 02 freq_set kernel 0.000 PPM
+2021-03-12T00:07:53.698394+08:00|ntpd[6869]|0.0.0.0:0 c011 01 freq_not_set
+2021-03-12T00:07:56.693881+08:00|ntpd[6869]|ntpd: time slew +0.001910 s
+2021-03-12T00:08:01.679182+08:00|systemd[-]|Started Session 1010084 of user cps.
+2021-03-12T00:08:01.681674+08:00|systemd[-]|Started Session 1010085 of user root.
+2021-03-12T00:08:01.684221+08:00|systemd[-]|Started Session 1010086 of user root.
+2021-03-12T00:08:01.686907+08:00|systemd[-]|Started Session 1010087 of user root.
+2021-03-12T00:08:41.176+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:08:41.176+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:08:41.176+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:08:41.176+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:09:01.424707+08:00|systemd[-]|Started Session 1010088 of user root.
+2021-03-12T00:09:01.427176+08:00|systemd[-]|Started Session 1010089 of user cps.
+2021-03-12T00:09:01.429770+08:00|systemd[-]|Started Session 1010090 of user root.
+2021-03-12T00:09:01.435613+08:00|systemd[-]|Started Session 1010091 of user root.
+2021-03-12T00:09:41.176+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:09:41.176+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:09:41.176+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:09:41.176+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:09:56.607511+08:00|kernel[-]|[14603347.284290] bash (64164): drop_caches: 3
+2021-03-12T00:10:01.943558+08:00|systemd[-]|Started Session 1010092 of user cps.
+2021-03-12T00:10:01.950340+08:00|systemd[-]|Started Session 1010093 of user root.
+2021-03-12T00:10:01.955725+08:00|systemd[-]|Started Session 1010094 of user root.
+2021-03-12T00:10:01.959994+08:00|systemd[-]|Started Session 1010095 of user root.
+2021-03-12T00:10:01.964250+08:00|systemd[-]|Started Session 1010096 of user root.
+2021-03-12T00:10:41.176+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:10:41.176+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:10:41.176+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:10:41.176+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:11:01.451260+08:00|systemd[-]|Started Session 1010098 of user cps.
+2021-03-12T00:11:01.456011+08:00|systemd[-]|Started Session 1010099 of user root.
+2021-03-12T00:11:01.459813+08:00|systemd[-]|Started Session 1010097 of user root.
+2021-03-12T00:11:01.469488+08:00|systemd[-]|Started Session 1010100 of user root.
+2021-03-12T00:11:41.176+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:11:41.176+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:11:41.176+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:11:41.176+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:12:01.925557+08:00|systemd[-]|Started Session 1010102 of user root.
+2021-03-12T00:12:01.927206+08:00|systemd[-]|Started Session 1010101 of user root.
+2021-03-12T00:12:01.931042+08:00|systemd[-]|Started Session 1010103 of user root.
+2021-03-12T00:12:01.937929+08:00|systemd[-]|Started Session 1010104 of user cps.
+2021-03-12T00:12:10.790600+08:00|MONITOR[52476]|Error: [smio_usr_send_req_to_jbod:311] connect error.
+2021-03-12T00:12:41.176+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:12:41.176+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:12:41.176+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:12:41.176+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:12:57.693542+08:00|ntpd[73142]|ntpd 4.2.6p5@1.2349-o Tue Jun 16 22:13:22 UTC 2020 (1)
+2021-03-12T00:12:57.693744+08:00|ntpd[73142]|proto: precision = 0.043 usec
+2021-03-12T00:12:57.693881+08:00|ntpd[73142]|0.0.0.0:0 c01d 0d kern kernel time sync enabled
+2021-03-12T00:12:57.694632+08:00|ntpd[73142]|Listen and drop on 0 v4wildcard 0.0.0.0:0 UDP 123
+2021-03-12T00:12:57.695912+08:00|ntpd[73142]|Listen and drop on 1 v6wildcard :: UDP 123
+2021-03-12T00:12:57.696079+08:00|ntpd[73142]|Listen normally on 2 lo 0.0.0.0:0 UDP 123
+2021-03-12T00:12:57.696211+08:00|ntpd[73142]|Listen normally on 3 brcps 0.0.0.0:0 UDP 123
+2021-03-12T00:12:57.696369+08:00|ntpd[73142]|Listen normally on 4 storage_data1 0.0.0.0:0 UDP 123
+2021-03-12T00:12:57.696546+08:00|ntpd[73142]|Listen normally on 5 external_om 0.0.0.0:0 UDP 123
+2021-03-12T00:12:57.696696+08:00|ntpd[73142]|Listen normally on 6 brcps ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:12:57.696821+08:00|ntpd[73142]|Listen normally on 7 lo ::1 UDP 123
+2021-03-12T00:12:57.696961+08:00|ntpd[73142]|Listen normally on 8 om-physnet2 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:12:57.697087+08:00|ntpd[73142]|Listen normally on 9 dt-physnet1 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:12:57.697197+08:00|ntpd[73142]|Listen normally on 10 external_om ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:12:57.697295+08:00|ntpd[73142]|Listen normally on 11 br-int ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:12:57.697395+08:00|ntpd[73142]|Listen normally on 12 external_api ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:12:57.697499+08:00|ntpd[73142]|Listen normally on 13 dt-physnet2 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:12:57.697636+08:00|ntpd[73142]|Listen normally on 14 br-physnet2 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:12:57.697761+08:00|ntpd[73142]|Listen normally on 15 arping-physnet1 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:12:57.697885+08:00|ntpd[73142]|Listen normally on 16 storage_data1 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:12:57.698010+08:00|ntpd[73142]|Listen normally on 17 ovs-netdev ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:12:57.698130+08:00|ntpd[73142]|Listen normally on 18 trunk0 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:12:57.698250+08:00|ntpd[73142]|Listening on routing socket on fd #35 for interface updates
+2021-03-12T00:12:57.698378+08:00|ntpd[73142]|0.0.0.0:0 c016 06 restart
+2021-03-12T00:12:57.698519+08:00|ntpd[73142]|0.0.0.0:0 c012 02 freq_set kernel 0.000 PPM
+2021-03-12T00:12:57.698629+08:00|ntpd[73142]|0.0.0.0:0 c011 01 freq_not_set
+2021-03-12T00:12:59.384395+08:00|rsyslogd[-]|imjournal: journal reloaded... [v8.24.0 try http://www.rsyslog.com/e/0 ]
+2021-03-12T00:13:00.693861+08:00|ntpd[73142]|ntpd: time slew +0.001893 s
+2021-03-12T00:13:01.315896+08:00|systemd[-]|Started Session 1010105 of user cps.
+2021-03-12T00:13:01.320280+08:00|systemd[-]|Started Session 1010106 of user root.
+2021-03-12T00:13:01.322618+08:00|systemd[-]|Started Session 1010107 of user root.
+2021-03-12T00:13:01.333164+08:00|systemd[-]|Started Session 1010108 of user root.
+2021-03-12T00:13:41.176+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:13:41.176+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:13:41.176+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:13:41.176+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:14:01.111708+08:00|systemd[-]|Started Session 1010109 of user cps.
+2021-03-12T00:14:01.115877+08:00|systemd[-]|Started Session 1010111 of user root.
+2021-03-12T00:14:01.119224+08:00|systemd[-]|Started Session 1010110 of user root.
+2021-03-12T00:14:01.122838+08:00|systemd[-]|Started Session 1010112 of user root.
+2021-03-12T00:14:41.176+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:14:41.176+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:14:41.176+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:14:41.176+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:14:41.597340+08:00|systemd[-]|Stopping irqbalance daemon...
+2021-03-12T00:14:41.597889+08:00|systemd[-]|Stopped irqbalance daemon.
+2021-03-12T00:14:43.802210+08:00|systemd[-]|Starting irqbalance daemon...
+2021-03-12T00:14:43.863317+08:00|systemd[-]|Started irqbalance daemon.
+2021-03-12T00:15:01.629386+08:00|systemd[-]|Started Session 1010113 of user cps.
+2021-03-12T00:15:01.640030+08:00|systemd[-]|Started Session 1010114 of user root.
+2021-03-12T00:15:01.648415+08:00|systemd[-]|Started Session 1010115 of user root.
+2021-03-12T00:15:01.655665+08:00|systemd[-]|Started Session 1010116 of user root.
+2021-03-12T00:15:41.176+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:15:41.176+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:15:41.176+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:15:41.176+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:16:01.161009+08:00|systemd[-]|Started Session 1010117 of user root.
+2021-03-12T00:16:01.165213+08:00|systemd[-]|Started Session 1010119 of user root.
+2021-03-12T00:16:01.168943+08:00|systemd[-]|Started Session 1010118 of user cps.
+2021-03-12T00:16:01.171719+08:00|systemd[-]|Started Session 1010120 of user root.
+2021-03-12T00:16:41.176+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:16:41.176+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:16:41.176+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:16:41.176+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:17:01.755873+08:00|systemd[-]|Started Session 1010122 of user root.
+2021-03-12T00:17:01.760439+08:00|systemd[-]|Started Session 1010121 of user cps.
+2021-03-12T00:17:01.766129+08:00|systemd[-]|Started Session 1010123 of user root.
+2021-03-12T00:17:01.784266+08:00|systemd[-]|Started Session 1010124 of user root.
+2021-03-12T00:17:10.796663+08:00|MONITOR[54295]|Error: [smio_usr_send_req_to_jbod:311] connect error.
+2021-03-12T00:17:41.176+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:17:41.176+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:17:41.176+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:17:41.176+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:17:49.953516+08:00|cloud_agent[-]|[../src/util/log.c,573] dsa_log_change_file:error number = 2, error string = No such file or directory
+2021-03-12T00:17:49.953644+08:00|cloud_agent[-]|[../src/util/log.c,574] dsa_log_change_file:rename failed.oldname=/var/log/cloudagent/cloud_agent.log,newname=/var/log/cloudagent/log-FSA-cloud_agent.log.2021-03-12_00-17-49
+2021-03-12T00:18:01.301255+08:00|systemd[-]|Started Session 1010125 of user cps.
+2021-03-12T00:18:01.305144+08:00|systemd[-]|Started Session 1010127 of user root.
+2021-03-12T00:18:01.321347+08:00|systemd[-]|Started Session 1010128 of user root.
+2021-03-12T00:18:01.326780+08:00|systemd[-]|Started Session 1010126 of user root.
+2021-03-12T00:18:01.716422+08:00|ntpd[3539]|ntpd 4.2.6p5@1.2349-o Tue Jun 16 22:13:22 UTC 2020 (1)
+2021-03-12T00:18:01.716621+08:00|ntpd[3539]|proto: precision = 0.042 usec
+2021-03-12T00:18:01.716768+08:00|ntpd[3539]|0.0.0.0:0 c01d 0d kern kernel time sync enabled
+2021-03-12T00:18:01.717131+08:00|ntpd[3539]|Listen and drop on 0 v4wildcard 0.0.0.0:0 UDP 123
+2021-03-12T00:18:01.718918+08:00|ntpd[3539]|Listen and drop on 1 v6wildcard :: UDP 123
+2021-03-12T00:18:01.719057+08:00|ntpd[3539]|Listen normally on 2 lo 0.0.0.0:0 UDP 123
+2021-03-12T00:18:01.719196+08:00|ntpd[3539]|Listen normally on 3 brcps 0.0.0.0:0 UDP 123
+2021-03-12T00:18:01.719306+08:00|ntpd[3539]|Listen normally on 4 storage_data1 0.0.0.0:0 UDP 123
+2021-03-12T00:18:01.719416+08:00|ntpd[3539]|Listen normally on 5 external_om 0.0.0.0:0 UDP 123
+2021-03-12T00:18:01.719547+08:00|ntpd[3539]|Listen normally on 6 brcps ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:18:01.719673+08:00|ntpd[3539]|Listen normally on 7 lo ::1 UDP 123
+2021-03-12T00:18:01.719805+08:00|ntpd[3539]|Listen normally on 8 om-physnet2 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:18:01.719935+08:00|ntpd[3539]|Listen normally on 9 dt-physnet1 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:18:01.720056+08:00|ntpd[3539]|Listen normally on 10 external_om ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:18:01.720182+08:00|ntpd[3539]|Listen normally on 11 br-int ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:18:01.720305+08:00|ntpd[3539]|Listen normally on 12 external_api ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:18:01.720428+08:00|ntpd[3539]|Listen normally on 13 dt-physnet2 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:18:01.720537+08:00|ntpd[3539]|Listen normally on 14 br-physnet2 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:18:01.720645+08:00|ntpd[3539]|Listen normally on 15 arping-physnet1 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:18:01.720748+08:00|ntpd[3539]|Listen normally on 16 storage_data1 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:18:01.720860+08:00|ntpd[3539]|Listen normally on 17 ovs-netdev ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:18:01.720960+08:00|ntpd[3539]|Listen normally on 18 trunk0 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:18:01.721061+08:00|ntpd[3539]|Listening on routing socket on fd #35 for interface updates
+2021-03-12T00:18:01.721163+08:00|ntpd[3539]|0.0.0.0:0 c016 06 restart
+2021-03-12T00:18:01.721291+08:00|ntpd[3539]|0.0.0.0:0 c012 02 freq_set kernel 0.000 PPM
+2021-03-12T00:18:01.721393+08:00|ntpd[3539]|0.0.0.0:0 c011 01 freq_not_set
+2021-03-12T00:18:04.716913+08:00|ntpd[3539]|ntpd: time slew +0.001900 s
+2021-03-12T00:18:41.177+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:18:41.177+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:18:41.177+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:18:41.177+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:18:47.201049+08:00|rsyslogd[-]|imjournal: journal reloaded... [v8.24.0 try http://www.rsyslog.com/e/0 ]
+2021-03-12T00:19:01.983282+08:00|systemd[-]|Started Session 1010129 of user root.
+2021-03-12T00:19:01.992538+08:00|systemd[-]|Started Session 1010130 of user root.
+2021-03-12T00:19:02.004751+08:00|systemd[-]|Started Session 1010131 of user root.
+2021-03-12T00:19:02.007029+08:00|systemd[-]|Started Session 1010132 of user cps.
+2021-03-12T00:19:41.177+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:19:41.177+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:19:41.177+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:19:41.177+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:19:57.581509+08:00|kernel[-]|[14603948.254010] bash (59123): drop_caches: 3
+2021-03-12T00:20:01.651802+08:00|systemd[-]|Started Session 1010133 of user root.
+2021-03-12T00:20:01.654220+08:00|systemd[-]|Started Session 1010135 of user root.
+2021-03-12T00:20:01.655810+08:00|systemd[-]|Started Session 1010134 of user cps.
+2021-03-12T00:20:01.657221+08:00|systemd[-]|Started Session 1010136 of user root.
+2021-03-12T00:20:01.659099+08:00|systemd[-]|Started Session 1010137 of user root.
+2021-03-12T00:20:41.177+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:20:41.177+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:20:41.177+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:20:41.177+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:21:01.755212+08:00|systemd[-]|Started Session 1010138 of user root.
+2021-03-12T00:21:01.762091+08:00|systemd[-]|Started Session 1010139 of user root.
+2021-03-12T00:21:01.771456+08:00|systemd[-]|Started Session 1010141 of user cps.
+2021-03-12T00:21:01.786231+08:00|systemd[-]|Started Session 1010140 of user root.
+2021-03-12T00:21:41.177+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:21:41.177+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:21:41.177+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:21:41.177+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:22:01.276144+08:00|systemd[-]|Started Session 1010142 of user cps.
+2021-03-12T00:22:01.282331+08:00|systemd[-]|Started Session 1010144 of user root.
+2021-03-12T00:22:01.286196+08:00|systemd[-]|Started Session 1010145 of user root.
+2021-03-12T00:22:01.289549+08:00|systemd[-]|Started Session 1010143 of user root.
+2021-03-12T00:22:10.815133+08:00|MONITOR[47399]|Error: [smio_usr_send_req_to_jbod:311] connect error.
+2021-03-12T00:22:41.177+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:22:41.177+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:22:41.177+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:22:41.177+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:23:01.689692+08:00|systemd[-]|Started Session 1010147 of user root.
+2021-03-12T00:23:01.693194+08:00|systemd[-]|Started Session 1010146 of user cps.
+2021-03-12T00:23:01.696842+08:00|systemd[-]|Started Session 1010148 of user root.
+2021-03-12T00:23:01.699307+08:00|systemd[-]|Started Session 1010149 of user root.
+2021-03-12T00:23:05.699792+08:00|ntpd[72739]|ntpd 4.2.6p5@1.2349-o Tue Jun 16 22:13:22 UTC 2020 (1)
+2021-03-12T00:23:05.699955+08:00|ntpd[72739]|proto: precision = 0.041 usec
+2021-03-12T00:23:05.700072+08:00|ntpd[72739]|0.0.0.0:0 c01d 0d kern kernel time sync enabled
+2021-03-12T00:23:05.700763+08:00|ntpd[72739]|Listen and drop on 0 v4wildcard 0.0.0.0:0 UDP 123
+2021-03-12T00:23:05.702254+08:00|ntpd[72739]|Listen and drop on 1 v6wildcard :: UDP 123
+2021-03-12T00:23:05.702415+08:00|ntpd[72739]|Listen normally on 2 lo 0.0.0.0:0 UDP 123
+2021-03-12T00:23:05.702576+08:00|ntpd[72739]|Listen normally on 3 brcps 0.0.0.0:0 UDP 123
+2021-03-12T00:23:05.702723+08:00|ntpd[72739]|Listen normally on 4 storage_data1 0.0.0.0:0 UDP 123
+2021-03-12T00:23:05.702861+08:00|ntpd[72739]|Listen normally on 5 external_om 0.0.0.0:0 UDP 123
+2021-03-12T00:23:05.702972+08:00|ntpd[72739]|Listen normally on 6 brcps ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:23:05.703077+08:00|ntpd[72739]|Listen normally on 7 lo ::1 UDP 123
+2021-03-12T00:23:05.703186+08:00|ntpd[72739]|Listen normally on 8 om-physnet2 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:23:05.703298+08:00|ntpd[72739]|Listen normally on 9 dt-physnet1 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:23:05.703408+08:00|ntpd[72739]|Listen normally on 10 external_om ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:23:05.703552+08:00|ntpd[72739]|Listen normally on 11 br-int ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:23:05.703662+08:00|ntpd[72739]|Listen normally on 12 external_api ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:23:05.703762+08:00|ntpd[72739]|Listen normally on 13 dt-physnet2 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:23:05.703861+08:00|ntpd[72739]|Listen normally on 14 br-physnet2 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:23:05.703959+08:00|ntpd[72739]|Listen normally on 15 arping-physnet1 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:23:05.704058+08:00|ntpd[72739]|Listen normally on 16 storage_data1 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:23:05.704166+08:00|ntpd[72739]|Listen normally on 17 ovs-netdev ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:23:05.704265+08:00|ntpd[72739]|Listen normally on 18 trunk0 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:23:05.704366+08:00|ntpd[72739]|Listening on routing socket on fd #35 for interface updates
+2021-03-12T00:23:05.704466+08:00|ntpd[72739]|0.0.0.0:0 c016 06 restart
+2021-03-12T00:23:05.704584+08:00|ntpd[72739]|0.0.0.0:0 c012 02 freq_set kernel 0.000 PPM
+2021-03-12T00:23:05.704686+08:00|ntpd[72739]|0.0.0.0:0 c011 01 freq_not_set
+2021-03-12T00:23:08.700901+08:00|ntpd[72739]|ntpd: time slew +0.001880 s
+2021-03-12T00:23:41.177+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:23:41.177+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:23:41.177+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:23:41.177+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:24:01.381134+08:00|systemd[-]|Started Session 1010150 of user cps.
+2021-03-12T00:24:01.389272+08:00|systemd[-]|Started Session 1010151 of user root.
+2021-03-12T00:24:01.393189+08:00|systemd[-]|Started Session 1010152 of user root.
+2021-03-12T00:24:01.397695+08:00|systemd[-]|Started Session 1010153 of user root.
+2021-03-12T00:24:36.421566+08:00|rsyslogd[-]|imjournal: journal reloaded... [v8.24.0 try http://www.rsyslog.com/e/0 ]
+2021-03-12T00:24:36.422915+08:00|rsyslogd[-]|imjournal: journal reloaded... [v8.24.0 try http://www.rsyslog.com/e/0 ]
+2021-03-12T00:24:41.177+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:24:41.177+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:24:41.177+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:24:41.177+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:25:01.899914+08:00|systemd[-]|Started Session 1010155 of user root.
+2021-03-12T00:25:01.901929+08:00|systemd[-]|Started Session 1010154 of user root.
+2021-03-12T00:25:01.904054+08:00|systemd[-]|Started Session 1010156 of user cps.
+2021-03-12T00:25:01.916400+08:00|systemd[-]|Started Session 1010157 of user root.
+2021-03-12T00:25:41.177+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:25:41.177+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:25:41.177+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:25:41.177+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:26:01.310362+08:00|systemd[-]|Started Session 1010158 of user cps.
+2021-03-12T00:26:01.314107+08:00|systemd[-]|Started Session 1010159 of user root.
+2021-03-12T00:26:01.318026+08:00|systemd[-]|Started Session 1010160 of user root.
+2021-03-12T00:26:01.321962+08:00|systemd[-]|Started Session 1010161 of user root.
+2021-03-12T00:26:41.177+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:26:41.177+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:26:41.177+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:26:41.177+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:27:01.876238+08:00|systemd[-]|Started Session 1010162 of user cps.
+2021-03-12T00:27:01.880412+08:00|systemd[-]|Started Session 1010164 of user root.
+2021-03-12T00:27:01.883181+08:00|systemd[-]|Started Session 1010165 of user root.
+2021-03-12T00:27:01.887006+08:00|systemd[-]|Started Session 1010163 of user root.
+2021-03-12T00:27:10.825586+08:00|MONITOR[37881]|Error: [smio_usr_send_req_to_jbod:311] connect error.
+2021-03-12T00:27:41.177+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:27:41.177+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:27:41.177+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:27:41.177+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:28:01.351511+08:00|systemd[-]|Started Session 1010166 of user cps.
+2021-03-12T00:28:01.356854+08:00|systemd[-]|Started Session 1010167 of user root.
+2021-03-12T00:28:01.360453+08:00|systemd[-]|Started Session 1010168 of user root.
+2021-03-12T00:28:01.363259+08:00|systemd[-]|Started Session 1010169 of user root.
+2021-03-12T00:28:09.702967+08:00|ntpd[66577]|ntpd 4.2.6p5@1.2349-o Tue Jun 16 22:13:22 UTC 2020 (1)
+2021-03-12T00:28:09.703151+08:00|ntpd[66577]|proto: precision = 0.041 usec
+2021-03-12T00:28:09.703284+08:00|ntpd[66577]|0.0.0.0:0 c01d 0d kern kernel time sync enabled
+2021-03-12T00:28:09.703836+08:00|ntpd[66577]|Listen and drop on 0 v4wildcard 0.0.0.0:0 UDP 123
+2021-03-12T00:28:09.705750+08:00|ntpd[66577]|Listen and drop on 1 v6wildcard :: UDP 123
+2021-03-12T00:28:09.705924+08:00|ntpd[66577]|Listen normally on 2 lo 0.0.0.0:0 UDP 123
+2021-03-12T00:28:09.706064+08:00|ntpd[66577]|Listen normally on 3 brcps 0.0.0.0:0 UDP 123
+2021-03-12T00:28:09.706199+08:00|ntpd[66577]|Listen normally on 4 storage_data1 0.0.0.0:0 UDP 123
+2021-03-12T00:28:09.706335+08:00|ntpd[66577]|Listen normally on 5 external_om 0.0.0.0:0 UDP 123
+2021-03-12T00:28:09.706464+08:00|ntpd[66577]|Listen normally on 6 brcps ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:28:09.706580+08:00|ntpd[66577]|Listen normally on 7 lo ::1 UDP 123
+2021-03-12T00:28:09.706694+08:00|ntpd[66577]|Listen normally on 8 om-physnet2 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:28:09.706806+08:00|ntpd[66577]|Listen normally on 9 dt-physnet1 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:28:09.706920+08:00|ntpd[66577]|Listen normally on 10 external_om ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:28:09.707042+08:00|ntpd[66577]|Listen normally on 11 br-int ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:28:09.707165+08:00|ntpd[66577]|Listen normally on 12 external_api ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:28:09.707289+08:00|ntpd[66577]|Listen normally on 13 dt-physnet2 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:28:09.707411+08:00|ntpd[66577]|Listen normally on 14 br-physnet2 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:28:09.707542+08:00|ntpd[66577]|Listen normally on 15 arping-physnet1 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:28:09.707657+08:00|ntpd[66577]|Listen normally on 16 storage_data1 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:28:09.707776+08:00|ntpd[66577]|Listen normally on 17 ovs-netdev ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:28:09.707899+08:00|ntpd[66577]|Listen normally on 18 trunk0 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:28:09.708029+08:00|ntpd[66577]|Listening on routing socket on fd #35 for interface updates
+2021-03-12T00:28:09.708168+08:00|ntpd[66577]|0.0.0.0:0 c016 06 restart
+2021-03-12T00:28:09.708291+08:00|ntpd[66577]|0.0.0.0:0 c012 02 freq_set kernel 0.000 PPM
+2021-03-12T00:28:09.708405+08:00|ntpd[66577]|0.0.0.0:0 c011 01 freq_not_set
+2021-03-12T00:28:12.703846+08:00|ntpd[66577]|ntpd: time slew +0.001919 s
+2021-03-12T00:28:41.177+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:28:41.177+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:28:41.177+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:28:41.177+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:29:01.034483+08:00|systemd[-]|Started Session 1010170 of user root.
+2021-03-12T00:29:01.037626+08:00|systemd[-]|Started Session 1010171 of user cps.
+2021-03-12T00:29:01.041305+08:00|systemd[-]|Started Session 1010172 of user root.
+2021-03-12T00:29:01.046094+08:00|systemd[-]|Started Session 1010173 of user root.
+2021-03-12T00:29:41.177+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:29:41.177+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:29:41.177+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:29:41.177+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:29:58.510505+08:00|kernel[-]|[14604549.178263] bash (42662): drop_caches: 3
+2021-03-12T00:30:01.686339+08:00|systemd[-]|Started Session 1010176 of user root.
+2021-03-12T00:30:01.689699+08:00|systemd[-]|Started Session 1010174 of user cps.
+2021-03-12T00:30:01.699383+08:00|systemd[-]|Started Session 1010177 of user root.
+2021-03-12T00:30:01.702161+08:00|systemd[-]|Started Session 1010175 of user root.
+2021-03-12T00:30:01.712791+08:00|systemd[-]|Started Session 1010178 of user root.
+2021-03-12T00:30:01.722724+08:00|systemd[-]|Started Session 1010179 of user root.
+2021-03-12T00:30:27.240443+08:00|rsyslogd[-]|imjournal: journal reloaded... [v8.24.0 try http://www.rsyslog.com/e/0 ]
+2021-03-12T00:30:41.177+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:30:41.177+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:30:41.177+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:30:41.177+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:31:01.760309+08:00|systemd[-]|Started Session 1010180 of user cps.
+2021-03-12T00:31:01.763720+08:00|systemd[-]|Started Session 1010181 of user root.
+2021-03-12T00:31:01.768981+08:00|systemd[-]|Started Session 1010183 of user root.
+2021-03-12T00:31:01.774154+08:00|systemd[-]|Started Session 1010182 of user root.
+2021-03-12T00:31:04.904172+08:00|MONITOR[1521]|Error: [smio_usr_send_req_to_jbod:311] connect error.
+2021-03-12T00:31:41.177+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:31:41.177+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:31:41.177+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:31:41.177+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:32:01.044561+08:00|systemd[-]|Started Session 1010185 of user root.
+2021-03-12T00:32:01.049245+08:00|systemd[-]|Started Session 1010187 of user root.
+2021-03-12T00:32:01.060511+08:00|systemd[-]|Started Session 1010184 of user cps.
+2021-03-12T00:32:01.079579+08:00|systemd[-]|Started Session 1010186 of user root.
+2021-03-12T00:32:10.831695+08:00|MONITOR[31049]|Error: [smio_usr_send_req_to_jbod:311] connect error.
+2021-03-12T00:32:35.021216+08:00|systemd[-]|Stopping irqbalance daemon...
+2021-03-12T00:32:35.022121+08:00|systemd[-]|Stopped irqbalance daemon.
+2021-03-12T00:32:39.012046+08:00|systemd[-]|Starting irqbalance daemon...
+2021-03-12T00:32:39.071286+08:00|systemd[-]|Started irqbalance daemon.
+2021-03-12T00:32:41.177+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:32:41.177+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:32:41.177+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:32:41.177+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:32:50.477965+08:00|cloud_agent[-]|[../src/util/log.c,573] dsa_log_change_file:error number = 2, error string = No such file or directory
+2021-03-12T00:32:50.478093+08:00|cloud_agent[-]|[../src/util/log.c,574] dsa_log_change_file:rename failed.oldname=/var/log/cloudagent/cloud_agent.log,newname=/var/log/cloudagent/log-FSA-cloud_agent.log.2021-03-12_00-32-50
+2021-03-12T00:33:01.474008+08:00|systemd[-]|Started Session 1010188 of user root.
+2021-03-12T00:33:01.477724+08:00|systemd[-]|Started Session 1010189 of user cps.
+2021-03-12T00:33:01.482217+08:00|systemd[-]|Started Session 1010190 of user root.
+2021-03-12T00:33:01.484650+08:00|systemd[-]|Started Session 1010191 of user root.
+2021-03-12T00:33:13.688194+08:00|ntpd[72154]|ntpd 4.2.6p5@1.2349-o Tue Jun 16 22:13:22 UTC 2020 (1)
+2021-03-12T00:33:13.688355+08:00|ntpd[72154]|proto: precision = 0.046 usec
+2021-03-12T00:33:13.688507+08:00|ntpd[72154]|0.0.0.0:0 c01d 0d kern kernel time sync enabled
+2021-03-12T00:33:13.689222+08:00|ntpd[72154]|Listen and drop on 0 v4wildcard 0.0.0.0:0 UDP 123
+2021-03-12T00:33:13.690505+08:00|ntpd[72154]|Listen and drop on 1 v6wildcard :: UDP 123
+2021-03-12T00:33:13.690666+08:00|ntpd[72154]|Listen normally on 2 lo 0.0.0.0:0 UDP 123
+2021-03-12T00:33:13.690812+08:00|ntpd[72154]|Listen normally on 3 brcps 0.0.0.0:0 UDP 123
+2021-03-12T00:33:13.690913+08:00|ntpd[72154]|Listen normally on 4 storage_data1 0.0.0.0:0 UDP 123
+2021-03-12T00:33:13.690998+08:00|ntpd[72154]|Listen normally on 5 external_om 0.0.0.0:0 UDP 123
+2021-03-12T00:33:13.691082+08:00|ntpd[72154]|Listen normally on 6 brcps ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:33:13.691164+08:00|ntpd[72154]|Listen normally on 7 lo ::1 UDP 123
+2021-03-12T00:33:13.691249+08:00|ntpd[72154]|Listen normally on 8 om-physnet2 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:33:13.691330+08:00|ntpd[72154]|Listen normally on 9 dt-physnet1 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:33:13.691413+08:00|ntpd[72154]|Listen normally on 10 external_om ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:33:13.691510+08:00|ntpd[72154]|Listen normally on 11 br-int ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:33:13.691598+08:00|ntpd[72154]|Listen normally on 12 external_api ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:33:13.691683+08:00|ntpd[72154]|Listen normally on 13 dt-physnet2 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:33:13.691764+08:00|ntpd[72154]|Listen normally on 14 br-physnet2 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:33:13.691846+08:00|ntpd[72154]|Listen normally on 15 arping-physnet1 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:33:13.691926+08:00|ntpd[72154]|Listen normally on 16 storage_data1 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:33:13.692012+08:00|ntpd[72154]|Listen normally on 17 ovs-netdev ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:33:13.692098+08:00|ntpd[72154]|Listen normally on 18 trunk0 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:33:13.692179+08:00|ntpd[72154]|Listening on routing socket on fd #35 for interface updates
+2021-03-12T00:33:13.692260+08:00|ntpd[72154]|0.0.0.0:0 c016 06 restart
+2021-03-12T00:33:13.692347+08:00|ntpd[72154]|0.0.0.0:0 c012 02 freq_set kernel 0.000 PPM
+2021-03-12T00:33:13.692431+08:00|ntpd[72154]|0.0.0.0:0 c011 01 freq_not_set
+2021-03-12T00:33:16.688857+08:00|ntpd[72154]|ntpd: time slew +0.001917 s
+2021-03-12T00:33:41.177+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:33:41.177+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:33:41.177+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:33:41.177+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:34:01.361446+08:00|systemd[-]|Started Session 1010192 of user cps.
+2021-03-12T00:34:01.366508+08:00|systemd[-]|Started Session 1010193 of user root.
+2021-03-12T00:34:01.369656+08:00|systemd[-]|Started Session 1010194 of user root.
+2021-03-12T00:34:01.373524+08:00|systemd[-]|Started Session 1010195 of user root.
+2021-03-12T00:34:41.177+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:34:41.177+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:34:41.177+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:34:41.177+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:35:01.178879+08:00|systemd[-]|Started Session 1010196 of user cps.
+2021-03-12T00:35:01.183598+08:00|systemd[-]|Started Session 1010197 of user root.
+2021-03-12T00:35:01.185933+08:00|systemd[-]|Started Session 1010199 of user root.
+2021-03-12T00:35:01.188898+08:00|systemd[-]|Started Session 1010198 of user root.
+2021-03-12T00:35:41.177+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:35:41.177+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:35:41.177+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:35:41.177+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:36:01.157780+08:00|systemd[-]|Started Session 1010200 of user cps.
+2021-03-12T00:36:01.163277+08:00|systemd[-]|Started Session 1010201 of user root.
+2021-03-12T00:36:01.167145+08:00|systemd[-]|Started Session 1010202 of user root.
+2021-03-12T00:36:01.172005+08:00|systemd[-]|Started Session 1010203 of user root.
+2021-03-12T00:36:17.523690+08:00|rsyslogd[-]|imjournal: journal reloaded... [v8.24.0 try http://www.rsyslog.com/e/0 ]
+2021-03-12T00:36:17.523804+08:00|rsyslogd[-]|imjournal: journal reloaded... [v8.24.0 try http://www.rsyslog.com/e/0 ]
+2021-03-12T00:36:41.177+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:36:41.177+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:36:41.177+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:36:41.177+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:37:01.174075+08:00|systemd[-]|Started Session 1010204 of user root.
+2021-03-12T00:37:01.177429+08:00|systemd[-]|Started Session 1010205 of user root.
+2021-03-12T00:37:01.191268+08:00|systemd[-]|Started Session 1010206 of user cps.
+2021-03-12T00:37:01.198320+08:00|systemd[-]|Started Session 1010207 of user root.
+2021-03-12T00:37:10.832798+08:00|MONITOR[32951]|Error: [smio_usr_send_req_to_jbod:311] connect error.
+2021-03-12T00:37:41.177+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:37:41.177+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:37:41.177+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:37:41.177+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:38:01.389951+08:00|systemd[-]|Started Session 1010208 of user cps.
+2021-03-12T00:38:01.395075+08:00|systemd[-]|Started Session 1010209 of user root.
+2021-03-12T00:38:01.403438+08:00|systemd[-]|Started Session 1010210 of user root.
+2021-03-12T00:38:01.420133+08:00|systemd[-]|Started Session 1010211 of user root.
+2021-03-12T00:38:17.682853+08:00|ntpd[64918]|ntpd 4.2.6p5@1.2349-o Tue Jun 16 22:13:22 UTC 2020 (1)
+2021-03-12T00:38:17.683009+08:00|ntpd[64918]|proto: precision = 0.042 usec
+2021-03-12T00:38:17.683149+08:00|ntpd[64918]|0.0.0.0:0 c01d 0d kern kernel time sync enabled
+2021-03-12T00:38:17.683535+08:00|ntpd[64918]|Listen and drop on 0 v4wildcard 0.0.0.0:0 UDP 123
+2021-03-12T00:38:17.684780+08:00|ntpd[64918]|Listen and drop on 1 v6wildcard :: UDP 123
+2021-03-12T00:38:17.684873+08:00|ntpd[64918]|Listen normally on 2 lo 0.0.0.0:0 UDP 123
+2021-03-12T00:38:17.684984+08:00|ntpd[64918]|Listen normally on 3 brcps 0.0.0.0:0 UDP 123
+2021-03-12T00:38:17.685085+08:00|ntpd[64918]|Listen normally on 4 storage_data1 0.0.0.0:0 UDP 123
+2021-03-12T00:38:17.685187+08:00|ntpd[64918]|Listen normally on 5 external_om 0.0.0.0:0 UDP 123
+2021-03-12T00:38:17.685292+08:00|ntpd[64918]|Listen normally on 6 brcps ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:38:17.685391+08:00|ntpd[64918]|Listen normally on 7 lo ::1 UDP 123
+2021-03-12T00:38:17.685504+08:00|ntpd[64918]|Listen normally on 8 om-physnet2 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:38:17.685613+08:00|ntpd[64918]|Listen normally on 9 dt-physnet1 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:38:17.685718+08:00|ntpd[64918]|Listen normally on 10 external_om ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:38:17.685818+08:00|ntpd[64918]|Listen normally on 11 br-int ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:38:17.685919+08:00|ntpd[64918]|Listen normally on 12 external_api ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:38:17.686022+08:00|ntpd[64918]|Listen normally on 13 dt-physnet2 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:38:17.686123+08:00|ntpd[64918]|Listen normally on 14 br-physnet2 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:38:17.686222+08:00|ntpd[64918]|Listen normally on 15 arping-physnet1 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:38:17.686322+08:00|ntpd[64918]|Listen normally on 16 storage_data1 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:38:17.686421+08:00|ntpd[64918]|Listen normally on 17 ovs-netdev ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:38:17.686527+08:00|ntpd[64918]|Listen normally on 18 trunk0 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:38:17.686630+08:00|ntpd[64918]|Listening on routing socket on fd #35 for interface updates
+2021-03-12T00:38:17.686730+08:00|ntpd[64918]|0.0.0.0:0 c016 06 restart
+2021-03-12T00:38:17.686831+08:00|ntpd[64918]|0.0.0.0:0 c012 02 freq_set kernel 0.000 PPM
+2021-03-12T00:38:17.686931+08:00|ntpd[64918]|0.0.0.0:0 c011 01 freq_not_set
+2021-03-12T00:38:20.683942+08:00|ntpd[64918]|ntpd: time slew +0.001903 s
+2021-03-12T00:38:41.179+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:38:41.179+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:38:41.179+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:38:41.179+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:39:01.737375+08:00|systemd[-]|Started Session 1010212 of user root.
+2021-03-12T00:39:01.741368+08:00|systemd[-]|Started Session 1010213 of user cps.
+2021-03-12T00:39:01.749663+08:00|systemd[-]|Started Session 1010214 of user root.
+2021-03-12T00:39:01.753771+08:00|systemd[-]|Started Session 1010215 of user root.
+2021-03-12T00:39:41.179+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:39:41.179+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:39:41.179+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:39:41.179+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:39:59.425509+08:00|kernel[-]|[14605150.088973] bash (38812): drop_caches: 3
+2021-03-12T00:40:01.889918+08:00|systemd[-]|Started Session 1010218 of user root.
+2021-03-12T00:40:01.891750+08:00|systemd[-]|Started Session 1010220 of user root.
+2021-03-12T00:40:01.893232+08:00|systemd[-]|Started Session 1010219 of user cps.
+2021-03-12T00:40:01.894748+08:00|systemd[-]|Started Session 1010221 of user root.
+2021-03-12T00:40:01.896601+08:00|systemd[-]|Started Session 1010217 of user root.
+2021-03-12T00:40:01.898748+08:00|systemd[-]|Started Session 1010216 of user root.
+2021-03-12T00:40:41.179+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:40:41.179+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:40:41.179+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:40:41.179+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:41:01.715619+08:00|systemd[-]|Started Session 1010222 of user cps.
+2021-03-12T00:41:01.722602+08:00|systemd[-]|Started Session 1010223 of user root.
+2021-03-12T00:41:01.732393+08:00|systemd[-]|Started Session 1010224 of user root.
+2021-03-12T00:41:01.738125+08:00|systemd[-]|Started Session 1010225 of user root.
+2021-03-12T00:41:41.179+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:41:41.179+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:41:41.179+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:41:41.179+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:42:01.791426+08:00|systemd[-]|Started Session 1010226 of user cps.
+2021-03-12T00:42:01.794957+08:00|systemd[-]|Started Session 1010227 of user root.
+2021-03-12T00:42:01.797463+08:00|systemd[-]|Started Session 1010228 of user root.
+2021-03-12T00:42:01.804333+08:00|systemd[-]|Started Session 1010229 of user root.
+2021-03-12T00:42:10.833815+08:00|MONITOR[26310]|Error: [smio_usr_send_req_to_jbod:311] connect error.
+2021-03-12T00:42:11.789+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Log statistics; processed='destination(d_fsp_common_run_error_60)=0', processed='destination(d_fsp_common_run_error_61)=0', processed='destination(d_fsp_common_run_error_62)=0', processed='destination(d_fsp_common_run_error_63)=3', processed='destination(d_fsp_common_run_error_64)=0', processed='destination(d_fsp_common_run_error_65)=0', processed='destination(d_fsp_common_run_error_66)=0', processed='destination(d_fsp_common_run_error_67)=0', processed='destination(d_fsp_common_run_error_68)=0', processed='destination(d_fsp_common_run_error_69)=0', processed='destination(d_fsp_common_run_info_83)=0', processed='destination(d_fsp_common_run_info_84)=30', processed='destination(d_fsp_common_run_info_80)=0', processed='destination(d_fsp_common_run_info_86)=18', processed='destination(d_fsp_common_run_info_85)=221', processed='destination(d_fsp_common_run_info_88)=242931', processed='destination(d_fsp_common_run_info_107)=0', processed='destination(d_fsp_common_run_info_102)=4150125', processed='destination(d_fsp_common_run_info_109)=0', processed='destination(d_fsp_common_run_info_87)=1338325', processed='destination(d_fsp_common_run_info_101)=0', processed='destination(d_fsp_common_run_info_89)=6808245', processed='destination(d_fsp_common_run_info_103)=0', processed='destination(d_fsp_common_run_info_104)=0', processed='destination(d_fsp_common_run_info_100)=21', processed='destination(d_fsp_common_run_info_106)=7', processed='destination(d_fsp_common_run_info_108)=2265', processed='destination(d_fsp_common_run_info_81)=0', processed='destination(d_fsp_common_run_info_105)=0', processed='destination(mailwarn)=0', processed='destination(d_fsp_common_run_error_70)=0', processed='destination(d_fsp_common_run_error_71)=0', processed='destination(d_fsp_common_run_error_72)=0', processed='destination(d_fsp_common_run_error_73)=0', processed='center(received)=891146486', processed='destination(d_fsp_common_run_error_74)=0', processed='destination(d_fsp_common_run_error_75)=2', processed='destination(d_fsp_common_run_error_76)=0', processed='destination(d_fsp_common_run_error_77)=5', processed='destination(d_fsp_common_run_info_110)=1408', processed='destination(d_fsp_common_run_error_79)=0', processed='destination(d_fsp_common_run_info_112)=33', processed='destination(d_fsp_common_run_info_113)=24', processed='destination(d_fsp_common_run_info_114)=6', processed='destination(d_fsp_common_run_info_115)=0', processed='destination(d_fsp_common_run_info_116)=81', processed='destination(d_fsp_common_run_info_117)=0', processed='destination(d_fsp_common_run_info_118)=15892694', processed='destination(d_fsp_common_run_info_119)=225227', processed='destination(d_fsp_common_run_info_93)=0', processed='destination(d_fsp_common_run_info_98)=0', processed='destination(d_fsp_common_run_info_95)=0', processed='destination(d_fsp_common_run_info_91)=0', processed='destination(d_fsp_common_run_error_78)=0', processed='destination(d_fsp_common_run_info_99)=0', processed='destination(d_fsp_common_run_info_96)=3260893', processed='destination(d_fsp_common_run_info_97)=0', processed='destination(d_fsp_common_run_info_92)=0', processed='destination(d_fsp_common_run_info_82)=0', processed='destination(d_fsp_common_run_info_94)=6', processed='destination(d_fsp_common_run_error_80)=0', processed='destination(d_fsp_common_run_error_81)=0', processed='destination(d_fsp_common_run_error_82)=0', processed='destination(d_fsp_common_run_error_83)=0', processed='destination(d_fsp_common_run_error_84)=0', processed='destination(d_fsp_common_run_error_85)=17', processed='destination(d_fsp_common_run_error_86)=0', processed='destination(d_fsp_common_run_error_87)=2689765', processed='destination(d_fsp_common_run_error_88)=7', processed='destination(d_fsp_common_run_info_120)=0', processed='destination(d_fsp_common_run_info_121)=0', processed='destination(d_fsp_common_run_info_122)=0', processed='destination(d_fsp_common_run_info_123)=0', processed='destination(d_fsp_common_run_info_124)=0', processed='destination(d_fsp_common_run_info_125)=0', processed='destination(d_fsp_common_run_info_126)=0', processed='destination(d_fsp_common_run_info_127)=0', processed='destination(d_fsp_common_run_info_200)=347', processed='destination(d_fsp_common_run_info_129)=18', processed='destination(d_fsp_common_run_error_89)=24413', processed='destination(d_fsp_common_run_info_128)=0', processed='destination(d_fsp_common_run_info_204)=0', processed='destination(d_fsp_common_run_info_201)=0', processed='destination(d_fsp_common_run_info_202)=0', processed='destination(d_fsp_common_run_info_203)=0', processed='destination(d_fsp_common_run_info_208)=1029', processed='destination(d_fsp_common_run_info_205)=0', processed='destination(d_fsp_common_run_info_206)=182', processed='destination(d_fsp_common_run_info_90)=0', processed='destination(d_fsp_common_run_info_209)=0', processed='destination(d_fsp_common_run_info_111)=25', processed='destination(d_fsp_common_run_error_90)=0', processed='destination(d_fsp_common_run_error_91)=0', processed='destination(d_fsp_common_run_error_92)=0', processed='destination(d_fsp_common_run_error_93)=0', processed='destination(d_fsp_common_run_error_94)=3', processed='destination(d_fsp_common_run_error_95)=0', processed='destination(d_fsp_common_run_error_96)=19', processed='destination(d_fsp_common_run_error_97)=0', processed='destination(d_fsp_common_run_error_98)=0', processed='destination(d_fsp_common_run_info_130)=0', processed='destination(d_fsp_common_run_info_131)=305091', processed='destination(d_fsp_common_run_info_132)=0', processed='destination(d_fsp_common_run_info_133)=0', processed='destination(d_fsp_common_run_info_134)=0', processed='destination(d_fsp_common_run_info_135)=0', processed='destination(d_fsp_common_run_info_136)=0', processed='destination(d_fsp_common_run_info_137)=0', processed='destination(d_fsp_common_run_info_138)=0', processed='destination(d_fsp_common_run_info_139)=0', processed='destination(d_fsp_common_run_error_99)=0', processed='destination(d_fsp_common_run_info_213)=0', processed='destination(d_fsp_common_run_info_207)=0', processed='destination(d_fsp_common_run_info_211)=0', processed='destination(d_fsp_common_run_info_212)=0', processed='destination(d_fsp_common_run_info_217)=835638', processed='destination(d_fsp_common_run_info_214)=0', processed='destination(d_fsp_common_run_info_210)=0', processed='destination(d_fsp_common_run_info_216)=19', processed='global(internal_queue_length)=0', processed='destination(d_fsp_common_run_info_218)=0', processed='destination(d_fsp_common_run_info_219)=0', processed='destination(d_fsp_common_run_info_215)=5', processed='destination(d_fsp_common_run_info_140)=124799', processed='destination(d_fsp_common_run_info_141)=0', processed='destination(d_fsp_common_run_info_142)=0', processed='destination(d_fsp_common_run_info_143)=0', processed='destination(d_fsp_common_run_info_144)=0', processed='destination(d_fsp_common_run_info_145)=0', processed='destination(d_fsp_common_run_info_146)=0', processed='destination(d_fsp_common_run_info_147)=0', processed='destination(d_fsp_common_run_info_148)=0', processed='destination(d_fsp_common_run_info_149)=73', processed='destination(d_fsp_common_run_info_222)=0', processed='destination(d_fsp_common_run_info_223)=0', processed='destination(d_fsp_common_run_info_220)=0', processed='destination(d_fsp_common_run_info_221)=0', processed='destination(d_fsp_common_run_info_226)=0', processed='destination(d_fsp_common_run_info_227)=0', processed='destination(d_fsp_common_run_info_224)=0', processed='destination(d_fsp_common_run_info_225)=0', processed='destination(firewall)=0', processed='destination(d_fsp_common_run_info_228)=0', processed='destination(d_fsp_common_run_info_229)=0', processed='destination(d_fsp_common_run_217)=0', processed='destination(d_fsp_common_run_219)=0', processed='destination(d_fsp_common_run_0)=243517', processed='destination(d_fsp_common_run_info_150)=0', processed='destination(d_fsp_common_run_info_151)=21892861', processed='destination(d_fsp_common_run_info_152)=0', processed='destination(d_fsp_common_run_info_153)=0', processed='destination(d_fsp_common_run_info_154)=626074', processed='destination(d_fsp_common_run_info_155)=4', processed='destination(d_fsp_common_run_info_156)=0', processed='destination(d_fsp_common_run_info_157)=0', processed='destination(d_fsp_common_run_info_158)=0', processed='destination(d_fsp_common_run_info_159)=0', processed='destination(d_fsp_common_run_1)=712', processed='destination(d_fsp_common_run_debug_4)=0', processed='destination(d_fsp_common_run_debug_5)=0', processed='destination(d_fsp_common_run_debug_6)=0', processed='destination(d_fsp_common_run_debug_7)=0', processed='destination(d_fsp_common_run_debug_8)=0', processed='destination(d_fsp_common_run_debug_9)=0', processed='destination(d_fsp_common_run_info_230)=0', processed='destination(d_fsp_common_run_info_231)=0', processed='global(msg_clones)=0', processed='destination(mail)=0', processed='destination(console)=486926', processed='destination(d_fsp_common_run_info_160)=0', processed='destination(d_fsp_common_run_info_161)=0', processed='destination(d_fsp_common_run_info_162)=0', processed='destination(d_fsp_common_run_info_163)=0', processed='destination(d_fsp_common_run_info_164)=22', processed='destination(d_fsp_common_run_info_165)=0', processed='destination(d_fsp_common_run_info_166)=375', processed='destination(d_fsp_common_run_info_167)=0', processed='destination(d_fsp_common_run_info_168)=2594485', processed='destination(d_fsp_common_run_info_169)=0', processed='destination(d_fsp_common_run_230)=73', processed='destination(d_fsp_common_run_231)=0', processed='destination(d_fsp_common_run_232)=0', processed='destination(xconsole)=486926', processed='destination(d_fsp_common_run_234)=0', processed='destination(d_fsp_common_run_235)=0', processed='destination(d_fsp_common_run_236)=0', processed='destination(localmessages)=0', processed='destination(d_fsp_common_run_info_170)=2189601', processed='destination(d_fsp_common_run_info_171)=0', processed='destination(d_fsp_common_run_info_172)=183', processed='destination(d_fsp_common_run_info_173)=0', processed='destination(d_fsp_common_run_info_174)=0', processed='destination(d_fsp_common_run_info_175)=0', processed='destination(d_fsp_common_run_info_176)=0', processed='destination(d_fsp_common_run_info_177)=0', processed='destination(d_fsp_common_run_info_178)=0', processed='destination(d_fsp_common_run_info_179)=0', processed='destination(d_fsp_common_run_info_180)=73', processed='destination(d_fsp_common_run_info_181)=0', processed='destination(d_fsp_common_run_info_182)=0', processed='destination(d_fsp_common_run_info_183)=10', processed='destination(d_fsp_common_run_info_184)=0', processed='destination(d_fsp_common_run_info_185)=119', processed='destination(d_fsp_common_run_info_186)=0', processed='destination(d_fsp_common_run_info_187)=0', processed='destination(d_fsp_common_run_info_188)=0', processed='destination(d_fsp_common_run_info_189)=0', processed='destination(d_fsp_common_run_info_190)=0', processed='destination(d_fsp_common_run_info_191)=0', processed='destination(d_fsp_common_run_info_192)=0', processed='destination(d_fsp_common_run_info_193)=0', processed='destination(d_fsp_common_run_info_194)=0', processed='destination(d_fsp_common_run_info_195)=0', processed='destination(d_fsp_common_run_info_196)=0', processed='destination(d_fsp_common_run_info_197)=0', processed='destination(d_fsp_common_run_info_198)=0', processed='destination(d_fsp_common_run_info_199)=0', processed='destination(d_fsp_common_run_182)=0', processed='destination(d_fsp_common_run_184)=0', processed='destination(programmessages)=2877881', processed='destination(d_fsp_common_run_debug_116)=0', processed='destination(d_fsp_common_run_debug_117)=10', processed='destination(d_fsp_common_run_debug_118)=69', processed='destination(d_fsp_common_run_debug_119)=495485', processed='destination(warn)=486926', processed='destination(d_fsp_common_run_debug_120)=0', processed='destination(d_fsp_common_run_debug_121)=0', processed='destination(d_fsp_common_run_debug_122)=0', processed='destination(d_fsp_common_run_debug_123)=0', processed='destination(d_fsp_common_run_debug_124)=0', processed='destination(d_fsp_common_run_debug_125)=0', processed='destination(d_fsp_common_run_debug_126)=0', processed='destination(d_fsp_common_run_debug_127)=0', processed='destination(d_fsp_common_run_debug_128)=0', processed='destination(d_fsp_common_run_debug_129)=305', processed='destination(d_fsp_common_run_debug_208)=24', processed='destination(d_fsp_common_run_54)=981', processed='destination(d_fsp_common_run_55)=3', processed='destination(d_fsp_common_run_debug_209)=0', processed='destination(d_fsp_common_run_debug_207)=0', processed='destination(d_fsp_common_run_debug_206)=4', processed='destination(d_fsp_common_run_debug_130)=0', processed='destination(d_fsp_common_run_debug_131)=15097013', processed='destination(d_fsp_common_run_debug_132)=0', processed='destination(d_fsp_common_run_debug_133)=0', processed='destination(d_fsp_common_run_debug_134)=0', processed='destination(d_fsp_common_run_debug_135)=0', processed='destination(d_fsp_common_run_debug_136)=0', processed='destination(d_fsp_common_run_debug_137)=0', processed='destination(d_fsp_common_run_debug_138)=8', processed='destination(d_fsp_common_run_debug_139)=0', processed='destination(d_fsp_common_run_info_2)=0', processed='destination(d_fsp_common_run_info_3)=0', processed='destination(d_fsp_common_run_info_4)=0', processed='destination(d_fsp_common_run_info_5)=0', processed='destination(d_fsp_common_run_info_6)=0', processed='destination(d_fsp_common_run_info_7)=0', processed='destination(d_fsp_common_run_info_8)=0', processed='destination(d_fsp_common_run_info_9)=0', processed='destination(d_fsp_common_run_debug_140)=6333812', processed='destination(d_fsp_common_run_debug_141)=0', processed='destination(d_fsp_common_run_debug_142)=0', processed='destination(d_fsp_common_run_debug_143)=0', processed='destination(d_fsp_common_run_debug_144)=0', processed='destination(d_fsp_common_run_debug_145)=0', processed='destination(d_fsp_common_run_debug_146)=0', processed='destination(d_fsp_common_run_debug_147)=0', processed='destination(d_fsp_common_run_debug_223)=0', processed='destination(d_fsp_common_run_debug_224)=0', processed='destination(d_fsp_common_run_error_100)=8', processed='destination(d_fsp_common_run_error_101)=0', processed='destination(d_fsp_common_run_error_102)=1070724', processed='destination(d_fsp_common_run_error_103)=0', processed='destination(d_fsp_common_run_error_104)=0', processed='destination(d_fsp_common_run_error_105)=0', processed='destination(d_fsp_common_run_error_106)=8', processed='destination(d_fsp_common_run_error_107)=0', processed='destination(d_fsp_common_run_error_108)=122', processed='destination(d_fsp_common_run_error_109)=0', processed='destination(d_fsp_common_run_debug_228)=0', processed='destination(d_fsp_common_run_debug_229)=0', processed='destination(d_fsp_common_run_debug_225)=0', processed='destination(d_fsp_common_run_debug_226)=0', processed='destination(d_fsp_common_run_debug_227)=0', processed='destination(d_fsp_common_run_debug_222)=0', processed='destination(d_fsp_common_run_debug_220)=0', processed='destination(d_fsp_common_run_debug_221)=0', processed='destination(d_fsp_common_run_debug_230)=0', processed='destination(d_fsp_common_run_debug_231)=0', processed='center(queued)=141067789', processed='destination(d_fsp_common_run_error_110)=19', processed='destination(d_fsp_common_run_error_111)=0', processed='destination(d_fsp_common_run_error_112)=0', processed='destination(d_fsp_common_run_error_113)=596', processed='destination(d_fsp_common_run_error_114)=0', processed='destination(d_fsp_common_run_error_115)=0', processed='destination(d_fsp_common_run_error_116)=0', processed='destination(d_fsp_common_run_error_117)=8', processed='destination(d_fsp_common_run_error_118)=16', processed='destination(d_fsp_common_run_error_119)=16', processed='global(sdata_updates)=0', processed='source(src)=891146486', processed='destination(d_fsp_common_run_error_120)=0', processed='destination(d_fsp_common_run_error_121)=0', processed='destination(d_fsp_common_run_error_122)=0', processed='destination(d_fsp_common_run_error_201)=0', processed='destination(d_fsp_common_run_error_123)=0', processed='destination(d_fsp_common_run_error_124)=0', processed='destination(d_fsp_common_run_error_125)=0', processed='destination(d_fsp_common_run_error_127)=0', processed='destination(d_fsp_common_run_error_128)=0', processed='destination(d_fsp_common_run_error_129)=14', processed='destination(d_fsp_common_run_error_202)=0', processed='destination(d_fsp_common_run_error_203)=0', processed='destination(d_fsp_common_run_error_126)=0', processed='destination(d_fsp_common_run_error_205)=0', processed='destination(d_fsp_common_run_error_206)=6', processed='destination(d_fsp_common_run_error_207)=0', processed='destination(d_fsp_common_run_error_204)=0', processed='destination(d_fsp_common_run_error_200)=0', processed='destination(d_fsp_common_run_error_208)=57', processed='destination(d_fsp_common_run_error_209)=0', processed='destination(d_fsp_common_run_debug_172)=0', processed='destination(acpid)=0', processed='destination(d_fsp_common_run_debug_174)=0', processed='destination(d_fsp_common_run_error_130)=0', processed='destination(d_fsp_common_run_error_131)=15', processed='destination(d_fsp_common_run_error_132)=0', processed='destination(d_fsp_common_run_error_133)=0', processed='destination(d_fsp_common_run_error_134)=0', processed='destination(d_fsp_common_run_error_135)=0', processed='destination(d_fsp_common_run_error_136)=0', processed='destination(d_fsp_common_run_error_137)=0', processed='destination(d_fsp_common_run_error_138)=6', processed='destination(d_fsp_common_run_error_139)=0', processed='destination(d_fsp_common_run_error_212)=0', processed='destination(d_fsp_common_run_error_213)=0', processed='destination(d_fsp_common_run_error_210)=0', processed='destination(d_fsp_common_run_error_211)=0', processed='destination(d_fsp_common_run_error_216)=0', processed='destination(d_fsp_common_run_error_217)=206', processed='destination(d_fsp_common_run_error_214)=0', processed='destination(d_fsp_common_run_error_215)=12', processed='destination(messages)=490991', processed='destination(d_fsp_common_run_error_218)=0', processed='destination(d_fsp_common_run_error_219)=0', processed='destination(d_null)=0', processed='src.internal(src#0)=490991', stamp='src.internal(src#0)=1615480901', processed='destination(d_fsp_common_run_error_140)=18', processed='destination(d_fsp_common_run_error_141)=0', processed='destination(d_fsp_common_run_error_142)=0', processed='destination(d_fsp_common_run_error_143)=0', processed='destination(d_fsp_common_run_error_144)=0', processed='destination(d_fsp_common_run_error_145)=0', processed='destination(d_fsp_common_run_error_146)=0', processed='destination(d_fsp_common_run_error_147)=0', processed='destination(d_fsp_common_run_error_148)=0', processed='destination(d_fsp_common_run_error_149)=0', processed='destination(d_fsp_common_run_error_222)=0', processed='destination(d_fsp_common_run_error_223)=0', processed='destination(d_fsp_common_run_error_220)=0', processed='destination(d_fsp_common_run_error_221)=0', processed='destination(d_fsp_common_run_error_226)=0', processed='destination(d_fsp_common_run_error_227)=0', processed='destination(d_fsp_common_run_error_224)=0', processed='destination(d_fsp_common_run_error_225)=0', processed='destination(mailerr)=0', processed='destination(d_fsp_common_run_error_228)=0', processed='destination(d_fsp_common_run_error_229)=0', processed='destination(d_fsp_common_run_debug_10)=0', processed='destination(d_fsp_common_run_debug_11)=0', processed='destination(d_fsp_common_run_debug_12)=0', processed='destination(d_fsp_common_run_debug_13)=0', processed='destination(d_fsp_common_run_error_150)=0', processed='destination(d_fsp_common_run_error_151)=570', processed='destination(d_fsp_common_run_error_152)=0', processed='destination(d_fsp_common_run_error_153)=0', processed='destination(d_fsp_common_run_error_154)=5', processed='destination(d_fsp_common_run_error_155)=48511', processed='destination(d_fsp_common_run_error_156)=0', processed='destination(d_fsp_common_run_error_157)=0', processed='destination(d_fsp_common_run_error_158)=0', processed='destination(d_fsp_common_run_error_159)=0', processed='destination(d_fsp_common_run_debug_14)=0', processed='destination(d_fsp_common_run_debug_15)=0', processed='destination(d_fsp_common_run_error_230)=0', processed='destination(d_fsp_common_run_error_231)=0', processed='destination(d_fsp_common_run_debug_20)=0', processed='destination(d_fsp_common_run_debug_21)=0', processed='destination(d_fsp_common_run_debug_22)=0', processed='destination(d_fsp_common_run_debug_23)=0', processed='destination(d_fsp_common_run_error_160)=0', processed='destination(d_fsp_common_run_error_161)=0', processed='destination(d_fsp_common_run_error_162)=0', processed='destination(d_fsp_common_run_debug_27)=0', processed='destination(d_fsp_common_run_debug_28)=0', processed='destination(d_fsp_common_run_debug_29)=0', processed='destination(d_fsp_common_run_error_165)=0', processed='destination(d_fsp_common_run_error_164)=1', processed='destination(d_fsp_common_run_error_168)=0', processed='destination(d_fsp_common_run_error_169)=0', processed='destination(d_fsp_common_run_error_167)=0', processed='destination(d_fsp_common_run_debug_25)=0', processed='destination(d_fsp_common_run_error_166)=1', processed='destination(d_fsp_common_run_error_163)=0', processed='destination(mailinfo)=0', processed='destination(d_fsp_common_run_debug_24)=0', processed='destination(d_fsp_common_run_debug_26)=0', processed='destination(netmgm)=0', processed='destination(d_fsp_common_run_debug_32)=0', processed='destination(d_fsp_common_run_debug_33)=0', processed='destination(d_fsp_common_run_debug_34)=0', processed='destination(d_fsp_common_run_debug_35)=0', processed='destination(d_fsp_common_run_debug_36)=0', processed='destination(d_fsp_common_run_debug_37)=0', processed='destination(d_fsp_common_run_debug_38)=0', processed='destination(d_fsp_common_run_debug_39)=0', processed='destination(d_fsp_common_run_error_175)=0', processed='destination(d_fsp_common_run_error_174)=0', processed='destination(d_fsp_common_run_error_177)=0', processed='destination(d_fsp_common_run_error_179)=0', processed='destination(d_fsp_common_run_error_170)=123', processed='destination(d_fsp_common_run_error_178)=0', processed='destination(d_fsp_common_run_error_176)=0', processed='destination(d_fsp_common_run_error_173)=0', processed='destination(d_fsp_common_run_error_171)=0', processed='destination(d_fsp_common_run_error_172)=23', processed='destination(d_fsp_common_run_debug_40)=0', processed='destination(d_fsp_common_run_debug_41)=0', processed='destination(d_fsp_common_run_info_11)=0', processed='destination(d_fsp_common_run_info_10)=0', processed='destination(d_fsp_common_run_info_13)=0', processed='destination(d_fsp_common_run_info_12)=0', processed='destination(d_fsp_common_run_info_15)=0', processed='destination(d_fsp_common_run_info_14)=0', processed='destination(d_fsp_common_run_debug_48)=0', processed='destination(d_fsp_common_run_debug_49)=0', processed='destination(d_fsp_common_run_info_17)=0', processed='destination(d_fsp_common_run_info_18)=0', processed='destination(d_fsp_common_run_info_16)=0', processed='destination(d_fsp_common_run_error_186)=0', processed='destination(d_fsp_common_run_error_189)=0', processed='destination(d_fsp_common_run_info_19)=0', processed='destination(d_fsp_common_run_error_182)=0', processed='destination(d_fsp_common_run_error_187)=0', processed='destination(d_fsp_common_run_error_188)=0', processed='destination(d_fsp_common_run_error_185)=0', processed='destination(d_fsp_common_run_error_181)=0', processed='destination(d_fsp_common_run_error_183)=0', processed='destination(d_fsp_common_run_error_184)=0', processed='destination(d_fsp_common_run_error_180)=5', processed='global(payload_reallocs)=28392', processed='destination(d_fsp_common_run_debug_50)=0', processed='destination(d_fsp_common_run_debug_51)=0', processed='destination(d_fsp_common_run_info_21)=0', processed='destination(d_fsp_common_run_info_20)=0', processed='destination(d_fsp_common_run_info_23)=0', processed='destination(d_fsp_common_run_info_22)=0', processed='destination(d_fsp_common_run_info_25)=0', processed='destination(d_fsp_common_run_info_24)=0', processed='destination(d_fsp_common_run_debug_58)=0', processed='destination(d_fsp_common_run_debug_59)=0', processed='destination(d_fsp_common_run_info_27)=0', processed='destination(d_fsp_common_run_info_28)=0', processed='destination(d_fsp_common_run_info_26)=0', processed='destination(d_fsp_common_run_error_196)=0', processed='destination(d_fsp_common_run_error_194)=0', processed='destination(d_fsp_common_run_info_29)=0', processed='destination(d_fsp_common_run_error_199)=0', processed='destination(d_fsp_common_run_error_197)=0', processed='destination(d_fsp_common_run_error_198)=0', processed='destination(d_fsp_common_run_error_195)=0', processed='destination(d_fsp_common_run_error_191)=0', processed='destination(d_fsp_common_run_error_192)=0', processed='destination(d_fsp_common_run_error_193)=0', processed='destination(d_fsp_common_run_error_190)=0', processed='destination(d_fsp_common_run_error_10)=0', processed='destination(d_fsp_common_run_error_11)=0', processed='destination(d_fsp_common_run_error_12)=0', processed='destination(d_fsp_common_run_error_13)=0', processed='destination(d_fsp_common_run_error_14)=0', processed='destination(d_fsp_common_run_error_15)=0', processed='destination(d_fsp_common_run_error_16)=0', processed='destination(d_fsp_common_run_error_17)=0', processed='destination(d_fsp_common_run_error_18)=0', processed='destination(d_fsp_common_run_error_19)=0', processed='destination(d_fsp_common_run_debug_61)=0', processed='destination(d_fsp_common_run_debug_62)=0', processed='destination(d_fsp_common_run_debug_63)=9464988', processed='destination(d_fsp_common_run_debug_64)=0', processed='destination(d_fsp_common_run_debug_65)=0', processed='destination(d_fsp_common_run_info_33)=0', processed='destination(d_fsp_common_run_info_30)=0', processed='destination(d_fsp_common_run_info_31)=0', processed='destination(d_fsp_common_run_info_32)=0', processed='destination(d_fsp_common_run_info_37)=0', processed='destination(d_fsp_common_run_info_34)=0', processed='destination(d_fsp_common_run_info_35)=0', processed='destination(d_fsp_common_run_info_36)=0', processed='destination(d_fsp_common_run_info_38)=0', processed='destination(d_fsp_common_run_info_39)=0', processed='destination(d_fsp_common_run_debug_60)=0', processed='destination(d_fsp_common_run_error_20)=0', processed='destination(d_fsp_common_run_error_21)=0', processed='destination(d_fsp_common_run_error_22)=0', processed='destination(d_fsp_common_run_error_23)=0', processed='destination(d_fsp_common_run_error_24)=0', processed='destination(d_fsp_common_run_error_25)=0', processed='destination(d_fsp_common_run_error_26)=0', processed='destination(d_fsp_common_run_error_27)=0', processed='destination(d_fsp_common_run_error_28)=0', processed='destination(d_fsp_common_run_error_29)=0', processed='destination(d_fsp_common_run_info_41)=0', processed='destination(d_fsp_common_run_info_42)=0', processed='destination(d_fsp_common_run_info_40)=0', processed='destination(d_fsp_common_run_info_44)=0', processed='destination(d_fsp_common_run_info_45)=0', processed='destination(d_fsp_common_run_info_43)=0', processed='destination(d_fsp_common_run_info_47)=0', processed='destination(d_fsp_common_run_info_48)=0', processed='destination(d_fsp_common_run_info_46)=0', processed='destination(d_fsp_common_run_info_49)=0', queued='global(scratch_buffers_count)=0', processed='destination(d_fsp_common_run_debug_56)=0', processed='destination(d_fsp_common_run_debug_57)=0', processed='destination(d_fsp_common_run_error_30)=0', processed='destination(d_fsp_common_run_error_31)=0', processed='destination(d_fsp_common_run_error_32)=0', processed='destination(d_fsp_common_run_error_33)=0', processed='destination(d_fsp_common_run_error_34)=0', processed='destination(d_fsp_common_run_error_35)=0', processed='destination(d_fsp_common_run_error_36)=0', processed='destination(d_fsp_common_run_error_37)=0', processed='destination(d_fsp_common_run_error_38)=0', processed='destination(d_fsp_common_run_error_39)=0', processed='destination(d_fsp_common_run_info_51)=0', processed='destination(d_fsp_common_run_info_52)=0', processed='destination(d_fsp_common_run_info_50)=0', processed='destination(d_fsp_common_run_info_56)=0', processed='destination(d_fsp_common_run_info_57)=0', processed='destination(d_fsp_common_run_info_53)=0', processed='destination(d_fsp_common_run_info_59)=0', processed='destination(d_fsp_common_run_info_58)=0', processed='destination(d_fsp_common_run_debug_89)=0', processed='destination(d_fsp_common_run_info_54)=0', processed='destination(d_fsp_common_run_info_55)=0', processed='destination(d_fsp_common_run_error_40)=0', processed='destination(d_fsp_common_run_error_41)=0', processed='destination(d_fsp_common_run_error_42)=0', processed='destination(d_fsp_common_run_error_43)=0', processed='destination(d_fsp_common_run_error_44)=0', processed='destination(d_fsp_common_run_error_45)=0', processed='destination(d_fsp_common_run_error_2)=0', processed='destination(d_fsp_common_run_error_3)=0', processed='destination(d_fsp_common_run_error_4)=0', processed='destination(d_fsp_common_run_error_5)=0', processed='destination(d_fsp_common_run_error_6)=0', processed='destination(d_fsp_common_run_error_7)=0', processed='destination(d_fsp_common_run_error_8)=0', processed='destination(d_fsp_common_run_error_9)=0', processed='destination(d_fsp_common_run_error_48)=0', processed='destination(d_fsp_common_run_error_49)=0', processed='destination(d_fsp_common_run_error_46)=0', processed='destination(d_fsp_common_run_error_47)=0', processed='destination(d_fsp_common_run_debug_92)=0', processed='destination(d_fsp_common_run_debug_93)=0', processed='destination(d_fsp_common_run_info_64)=0', processed='destination(d_fsp_common_run_info_60)=0', processed='destination(d_fsp_common_run_debug_91)=0', processed='destination(d_fsp_common_run_info_62)=0', processed='destination(d_fsp_common_run_info_63)=24965892', processed='destination(d_fsp_common_run_info_69)=15257279', processed='destination(d_fsp_common_run_info_65)=0', processed='destination(d_fsp_common_run_info_66)=0', processed='destination(d_fsp_common_run_info_61)=0', processed='destination(d_fsp_common_run_info_68)=0', processed='destination(d_fsp_common_run_error_50)=0', processed='destination(d_fsp_common_run_error_51)=0', processed='destination(d_fsp_common_run_error_52)=0', processed='destination(d_fsp_common_run_error_53)=0', queued='global(scratch_buffers_bytes)=0', processed='destination(d_fsp_common_run_error_54)=0', processed='destination(d_fsp_common_run_error_56)=0', processed='destination(d_fsp_common_run_error_57)=0', processed='destination(d_fsp_common_run_error_58)=0', processed='destination(d_fsp_common_run_error_59)=0', processed='destination(d_fsp_common_run_info_71)=0', processed='destination(d_fsp_common_run_info_72)=0', processed='destination(d_fsp_common_run_info_70)=0', processed='destination(d_fsp_common_run_info_74)=0', processed='destination(d_fsp_common_run_info_75)=0', processed='destination(d_fsp_common_run_info_73)=0', processed='destination(d_fsp_common_run_info_67)=0', processed='destination(d_fsp_common_run_info_78)=0', processed='destination(d_fsp_common_run_info_76)=0', processed='destination(d_fsp_common_run_info_77)=49047', processed='destination(d_fsp_common_run_error_55)=0', processed='destination(d_fsp_common_run_info_79)=0', processed='destination(d_fsp_common_run_debug_90)=0'
+2021-03-12T00:42:21.826527+08:00|rsyslogd[-]|imjournal: journal reloaded... [v8.24.0 try http://www.rsyslog.com/e/0 ]
+2021-03-12T00:42:41.180+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:42:41.180+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:42:41.180+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:42:41.180+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:43:01.812352+08:00|systemd[-]|Started Session 1010230 of user root.
+2021-03-12T00:43:01.816903+08:00|systemd[-]|Started Session 1010231 of user cps.
+2021-03-12T00:43:01.826311+08:00|systemd[-]|Started Session 1010232 of user root.
+2021-03-12T00:43:01.828928+08:00|systemd[-]|Started Session 1010233 of user root.
+2021-03-12T00:43:21.688631+08:00|ntpd[60186]|ntpd 4.2.6p5@1.2349-o Tue Jun 16 22:13:22 UTC 2020 (1)
+2021-03-12T00:43:21.688828+08:00|ntpd[60186]|proto: precision = 0.042 usec
+2021-03-12T00:43:21.688978+08:00|ntpd[60186]|0.0.0.0:0 c01d 0d kern kernel time sync enabled
+2021-03-12T00:43:21.689569+08:00|ntpd[60186]|Listen and drop on 0 v4wildcard 0.0.0.0:0 UDP 123
+2021-03-12T00:43:21.690787+08:00|ntpd[60186]|Listen and drop on 1 v6wildcard :: UDP 123
+2021-03-12T00:43:21.690904+08:00|ntpd[60186]|Listen normally on 2 lo 0.0.0.0:0 UDP 123
+2021-03-12T00:43:21.691015+08:00|ntpd[60186]|Listen normally on 3 brcps 0.0.0.0:0 UDP 123
+2021-03-12T00:43:21.691122+08:00|ntpd[60186]|Listen normally on 4 storage_data1 0.0.0.0:0 UDP 123
+2021-03-12T00:43:21.691225+08:00|ntpd[60186]|Listen normally on 5 external_om 0.0.0.0:0 UDP 123
+2021-03-12T00:43:21.691328+08:00|ntpd[60186]|Listen normally on 6 brcps ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:43:21.691435+08:00|ntpd[60186]|Listen normally on 7 lo ::1 UDP 123
+2021-03-12T00:43:21.691549+08:00|ntpd[60186]|Listen normally on 8 om-physnet2 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:43:21.691655+08:00|ntpd[60186]|Listen normally on 9 dt-physnet1 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:43:21.691772+08:00|ntpd[60186]|Listen normally on 10 external_om ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:43:21.691883+08:00|ntpd[60186]|Listen normally on 11 br-int ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:43:21.691987+08:00|ntpd[60186]|Listen normally on 12 external_api ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:43:21.692089+08:00|ntpd[60186]|Listen normally on 13 dt-physnet2 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:43:21.692191+08:00|ntpd[60186]|Listen normally on 14 br-physnet2 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:43:21.692294+08:00|ntpd[60186]|Listen normally on 15 arping-physnet1 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:43:21.692395+08:00|ntpd[60186]|Listen normally on 16 storage_data1 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:43:21.692511+08:00|ntpd[60186]|Listen normally on 17 ovs-netdev ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:43:21.692617+08:00|ntpd[60186]|Listen normally on 18 trunk0 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:43:21.692720+08:00|ntpd[60186]|Listening on routing socket on fd #35 for interface updates
+2021-03-12T00:43:21.692835+08:00|ntpd[60186]|0.0.0.0:0 c016 06 restart
+2021-03-12T00:43:21.692939+08:00|ntpd[60186]|0.0.0.0:0 c012 02 freq_set kernel 0.000 PPM
+2021-03-12T00:43:21.693043+08:00|ntpd[60186]|0.0.0.0:0 c011 01 freq_not_set
+2021-03-12T00:43:24.688807+08:00|ntpd[60186]|ntpd: time slew +0.001882 s
+2021-03-12T00:43:41.180+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:43:41.180+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:43:41.180+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:43:41.180+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:44:01.273393+08:00|systemd[-]|Started Session 1010234 of user root.
+2021-03-12T00:44:01.283533+08:00|systemd[-]|Started Session 1010236 of user root.
+2021-03-12T00:44:01.288038+08:00|systemd[-]|Started Session 1010235 of user root.
+2021-03-12T00:44:01.309950+08:00|systemd[-]|Started Session 1010237 of user cps.
+2021-03-12T00:44:41.180+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:44:41.180+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:44:41.180+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:44:41.180+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:45:01.351644+08:00|systemd[-]|Started Session 1010238 of user cps.
+2021-03-12T00:45:01.375349+08:00|systemd[-]|Started Session 1010239 of user root.
+2021-03-12T00:45:01.384750+08:00|systemd[-]|Started Session 1010240 of user root.
+2021-03-12T00:45:01.388571+08:00|systemd[-]|Started Session 1010241 of user root.
+2021-03-12T00:45:41.180+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:45:41.180+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:45:41.180+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:45:41.180+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:46:01.446288+08:00|systemd[-]|Started Session 1010242 of user root.
+2021-03-12T00:46:01.451417+08:00|systemd[-]|Started Session 1010243 of user root.
+2021-03-12T00:46:01.458307+08:00|systemd[-]|Started Session 1010244 of user root.
+2021-03-12T00:46:01.460889+08:00|systemd[-]|Started Session 1010245 of user cps.
+2021-03-12T00:46:41.181+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:46:41.181+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:46:41.181+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:46:41.181+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:47:01.325683+08:00|systemd[-]|Started Session 1010246 of user cps.
+2021-03-12T00:47:01.332561+08:00|systemd[-]|Started Session 1010248 of user root.
+2021-03-12T00:47:01.337640+08:00|systemd[-]|Started Session 1010249 of user root.
+2021-03-12T00:47:01.342240+08:00|systemd[-]|Started Session 1010247 of user root.
+2021-03-12T00:47:10.892061+08:00|MONITOR[16703]|Error: [smio_usr_send_req_to_jbod:311] connect error.
+2021-03-12T00:47:23.774516+08:00|systemd[-]|Started OVSDB and flows backup.
+2021-03-12T00:47:23.804345+08:00|sh[-]|ovs_db_and_flows_path is:  /var/log/ovsdb_flows_backup
+2021-03-12T00:47:23.807595+08:00|sh[-]|/var/log partition usage is: 17
+2021-03-12T00:47:23.810186+08:00|sh[-]|file size of original ovs conf.db is: 1
+2021-03-12T00:47:23.830307+08:00|sh[-]|41839
+2021-03-12T00:47:23.849433+08:00|sh[-]|40222
+2021-03-12T00:47:23.873571+08:00|sh[-]|will check and create: /var/log/ovsdb_flows_backup
+2021-03-12T00:47:23.881848+08:00|sh[-]|will check and create: /var/log/ovsdb_flows_backup/20210312_004723+0800_1615481243
+2021-03-12T00:47:23.883294+08:00|ovsdb_flows_backup_monitor[40695]|monitor IN_CREATE: creating /var/log/ovsdb_flows_backup/20210312_004723+0800_1615481243
+2021-03-12T00:47:23.916825+08:00|sh[-]|cur_cfg: 364
+2021-03-12T00:47:23.917307+08:00|sh[-]|next_cfg: 364
+2021-03-12T00:47:23.920753+08:00|sh[-]|conf.db is ready!
+2021-03-12T00:47:26.214734+08:00|sh[-]|use current time: 20210312_004726+0800
+2021-03-12T00:47:26.214930+08:00|sh[-]|---------------------------------------------------------------------------------------------------
+2021-03-12T00:47:26.217140+08:00|sh[-]|20210309_004717+0800_1615222037.tar.gz
+2021-03-12T00:47:26.217323+08:00|sh[-]|20210309_014717+0800_1615225637.tar.gz
+2021-03-12T00:47:26.217491+08:00|sh[-]|20210309_024717+0800_1615229237.tar.gz
+2021-03-12T00:47:26.217640+08:00|sh[-]|20210309_034717+0800_1615232837.tar.gz
+2021-03-12T00:47:26.217777+08:00|sh[-]|20210309_044717+0800_1615236437.tar.gz
+2021-03-12T00:47:26.217902+08:00|sh[-]|20210309_054717+0800_1615240037.tar.gz
+2021-03-12T00:47:26.218024+08:00|sh[-]|20210309_064717+0800_1615243637.tar.gz
+2021-03-12T00:47:26.218146+08:00|sh[-]|20210309_074717+0800_1615247237.tar.gz
+2021-03-12T00:47:26.218278+08:00|sh[-]|20210309_084717+0800_1615250837.tar.gz
+2021-03-12T00:47:26.218420+08:00|sh[-]|20210309_094718+0800_1615254438.tar.gz
+2021-03-12T00:47:26.218552+08:00|sh[-]|20210309_104718+0800_1615258038.tar.gz
+2021-03-12T00:47:26.218674+08:00|sh[-]|20210309_114718+0800_1615261638.tar.gz
+2021-03-12T00:47:26.218802+08:00|sh[-]|20210309_124718+0800_1615265238.tar.gz
+2021-03-12T00:47:26.218922+08:00|sh[-]|20210309_134718+0800_1615268838.tar.gz
+2021-03-12T00:47:26.219041+08:00|sh[-]|20210309_144718+0800_1615272438.tar.gz
+2021-03-12T00:47:26.219166+08:00|sh[-]|20210309_154718+0800_1615276038.tar.gz
+2021-03-12T00:47:26.219286+08:00|sh[-]|20210309_164718+0800_1615279638.tar.gz
+2021-03-12T00:47:26.219404+08:00|sh[-]|20210309_174718+0800_1615283238.tar.gz
+2021-03-12T00:47:26.219553+08:00|sh[-]|20210309_184718+0800_1615286838.tar.gz
+2021-03-12T00:47:26.219687+08:00|sh[-]|20210309_194718+0800_1615290438.tar.gz
+2021-03-12T00:47:26.219809+08:00|sh[-]|20210309_204718+0800_1615294038.tar.gz
+2021-03-12T00:47:26.219933+08:00|sh[-]|20210309_214719+0800_1615297639.tar.gz
+2021-03-12T00:47:26.220058+08:00|sh[-]|20210309_224719+0800_1615301239.tar.gz
+2021-03-12T00:47:26.220188+08:00|sh[-]|20210309_234719+0800_1615304839.tar.gz
+2021-03-12T00:47:26.220324+08:00|sh[-]|20210310_004719+0800_1615308439.tar.gz
+2021-03-12T00:47:26.220466+08:00|sh[-]|20210310_014719+0800_1615312039.tar.gz
+2021-03-12T00:47:26.220616+08:00|sh[-]|20210310_024719+0800_1615315639.tar.gz
+2021-03-12T00:47:26.220756+08:00|sh[-]|20210310_034719+0800_1615319239.tar.gz
+2021-03-12T00:47:26.220899+08:00|sh[-]|20210310_044719+0800_1615322839.tar.gz
+2021-03-12T00:47:26.221034+08:00|sh[-]|20210310_054719+0800_1615326439.tar.gz
+2021-03-12T00:47:26.221171+08:00|sh[-]|20210310_064719+0800_1615330039.tar.gz
+2021-03-12T00:47:26.221308+08:00|sh[-]|20210310_074719+0800_1615333639.tar.gz
+2021-03-12T00:47:26.221444+08:00|sh[-]|20210310_084720+0800_1615337240.tar.gz
+2021-03-12T00:47:26.221602+08:00|sh[-]|20210310_094720+0800_1615340840.tar.gz
+2021-03-12T00:47:26.221745+08:00|sh[-]|20210310_104720+0800_1615344440.tar.gz
+2021-03-12T00:47:26.221886+08:00|sh[-]|20210310_114720+0800_1615348040.tar.gz
+2021-03-12T00:47:26.222043+08:00|ovsdb_flows_backup_monitor[40695]|monitor IN_CREATE: creating /var/log/ovsdb_flows_backup/20210312_004723+0800_1615481243.tar.gz
+2021-03-12T00:47:26.222230+08:00|sh[-]|20210310_124720+0800_1615351640.tar.gz
+2021-03-12T00:47:26.222371+08:00|sh[-]|20210310_134720+0800_1615355240.tar.gz
+2021-03-12T00:47:26.222512+08:00|sh[-]|20210310_144720+0800_1615358840.tar.gz
+2021-03-12T00:47:26.222641+08:00|sh[-]|20210310_154720+0800_1615362440.tar.gz
+2021-03-12T00:47:26.222730+08:00|sh[-]|20210310_164720+0800_1615366040.tar.gz
+2021-03-12T00:47:26.222818+08:00|sh[-]|20210310_174720+0800_1615369640.tar.gz
+2021-03-12T00:47:26.222916+08:00|sh[-]|20210310_184720+0800_1615373240.tar.gz
+2021-03-12T00:47:26.222999+08:00|sh[-]|20210310_194720+0800_1615376840.tar.gz
+2021-03-12T00:47:26.223081+08:00|sh[-]|20210310_204720+0800_1615380440.tar.gz
+2021-03-12T00:47:26.223169+08:00|sh[-]|20210310_214720+0800_1615384040.tar.gz
+2021-03-12T00:47:26.223253+08:00|sh[-]|20210310_224721+0800_1615387641.tar.gz
+2021-03-12T00:47:26.223336+08:00|sh[-]|20210310_234721+0800_1615391241.tar.gz
+2021-03-12T00:47:26.223422+08:00|sh[-]|20210311_004721+0800_1615394841.tar.gz
+2021-03-12T00:47:26.223562+08:00|sh[-]|20210311_014721+0800_1615398441.tar.gz
+2021-03-12T00:47:26.223650+08:00|sh[-]|20210311_024721+0800_1615402041.tar.gz
+2021-03-12T00:47:26.223740+08:00|sh[-]|20210311_034721+0800_1615405641.tar.gz
+2021-03-12T00:47:26.223848+08:00|sh[-]|20210311_044721+0800_1615409241.tar.gz
+2021-03-12T00:47:26.223950+08:00|sh[-]|20210311_054721+0800_1615412841.tar.gz
+2021-03-12T00:47:26.224049+08:00|sh[-]|20210311_064721+0800_1615416441.tar.gz
+2021-03-12T00:47:26.224146+08:00|sh[-]|20210311_074722+0800_1615420042.tar.gz
+2021-03-12T00:47:26.224242+08:00|sh[-]|20210311_084722+0800_1615423642.tar.gz
+2021-03-12T00:47:26.224339+08:00|sh[-]|20210311_094722+0800_1615427242.tar.gz
+2021-03-12T00:47:26.224435+08:00|sh[-]|20210311_104722+0800_1615430842.tar.gz
+2021-03-12T00:47:26.224538+08:00|sh[-]|20210311_114722+0800_1615434442.tar.gz
+2021-03-12T00:47:26.224634+08:00|sh[-]|20210311_124722+0800_1615438042.tar.gz
+2021-03-12T00:47:26.224736+08:00|sh[-]|20210311_134722+0800_1615441642.tar.gz
+2021-03-12T00:47:26.224836+08:00|sh[-]|20210311_144722+0800_1615445242.tar.gz
+2021-03-12T00:47:26.224934+08:00|sh[-]|20210311_154722+0800_1615448842.tar.gz
+2021-03-12T00:47:26.225030+08:00|sh[-]|20210311_164723+0800_1615452443.tar.gz
+2021-03-12T00:47:26.225134+08:00|sh[-]|20210311_174723+0800_1615456043.tar.gz
+2021-03-12T00:47:26.225231+08:00|sh[-]|20210311_184723+0800_1615459643.tar.gz
+2021-03-12T00:47:26.225330+08:00|sh[-]|20210311_194723+0800_1615463243.tar.gz
+2021-03-12T00:47:26.225426+08:00|sh[-]|20210311_204723+0800_1615466843.tar.gz
+2021-03-12T00:47:26.225542+08:00|sh[-]|20210311_214723+0800_1615470443.tar.gz
+2021-03-12T00:47:26.225641+08:00|sh[-]|20210311_224723+0800_1615474043.tar.gz
+2021-03-12T00:47:26.225738+08:00|sh[-]|20210311_234723+0800_1615477643.tar.gz
+2021-03-12T00:47:26.225837+08:00|sh[-]|20210312_004723+0800_1615481243
+2021-03-12T00:47:26.225934+08:00|sh[-]|will create: /var/log/ovsdb_flows_backup/20210312_004723+0800_1615481243.tar.gz
+2021-03-12T00:47:26.233403+08:00|ovsdb_flows_backup_monitor[40695]|monitor CLOSE_WRIRE: finish writing /var/log/ovsdb_flows_backup/20210312_004723+0800_1615481243.tar.gz
+2021-03-12T00:47:26.233927+08:00|sh[-]|will delete: /var/log/ovsdb_flows_backup/20210312_004723+0800_1615481243
+2021-03-12T00:47:26.238200+08:00|ovsdb_flows_backup_monitor[40695]|cleanup exceed number tar file: 20210309_004717+0800_1615222037.tar.gz
+2021-03-12T00:47:26.242848+08:00|ovsdb_flows_backup_monitor[40695]|monitor IN_DELETE: deleting /var/log/ovsdb_flows_backup/20210312_004723+0800_1615481243
+2021-03-12T00:47:26.242960+08:00|ovsdb_flows_backup_monitor[40695]|monitor IN_DELETE: deleting /var/log/ovsdb_flows_backup/20210309_004717+0800_1615222037.tar.gz
+2021-03-12T00:47:41.181+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:47:41.181+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:47:41.181+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:47:41.181+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:47:51.011446+08:00|cloud_agent[-]|[../src/util/log.c,573] dsa_log_change_file:error number = 2, error string = No such file or directory
+2021-03-12T00:47:51.011582+08:00|cloud_agent[-]|[../src/util/log.c,574] dsa_log_change_file:rename failed.oldname=/var/log/cloudagent/cloud_agent.log,newname=/var/log/cloudagent/log-FSA-cloud_agent.log.2021-03-12_00-47-51
+2021-03-12T00:48:01.103956+08:00|systemd[-]|Started Session 1010250 of user cps.
+2021-03-12T00:48:01.108755+08:00|systemd[-]|Started Session 1010253 of user root.
+2021-03-12T00:48:01.114724+08:00|systemd[-]|Started Session 1010252 of user root.
+2021-03-12T00:48:01.117020+08:00|systemd[-]|Started Session 1010251 of user root.
+2021-03-12T00:48:17.574573+08:00|rsyslogd[-]|imjournal: journal reloaded... [v8.24.0 try http://www.rsyslog.com/e/0 ]
+2021-03-12T00:48:25.692440+08:00|ntpd[52225]|ntpd 4.2.6p5@1.2349-o Tue Jun 16 22:13:22 UTC 2020 (1)
+2021-03-12T00:48:25.692621+08:00|ntpd[52225]|proto: precision = 0.042 usec
+2021-03-12T00:48:25.692758+08:00|ntpd[52225]|0.0.0.0:0 c01d 0d kern kernel time sync enabled
+2021-03-12T00:48:25.693095+08:00|ntpd[52225]|Listen and drop on 0 v4wildcard 0.0.0.0:0 UDP 123
+2021-03-12T00:48:25.694996+08:00|ntpd[52225]|Listen and drop on 1 v6wildcard :: UDP 123
+2021-03-12T00:48:25.695118+08:00|ntpd[52225]|Listen normally on 2 lo 0.0.0.0:0 UDP 123
+2021-03-12T00:48:25.695226+08:00|ntpd[52225]|Listen normally on 3 brcps 0.0.0.0:0 UDP 123
+2021-03-12T00:48:25.695329+08:00|ntpd[52225]|Listen normally on 4 storage_data1 0.0.0.0:0 UDP 123
+2021-03-12T00:48:25.695435+08:00|ntpd[52225]|Listen normally on 5 external_om 0.0.0.0:0 UDP 123
+2021-03-12T00:48:25.695560+08:00|ntpd[52225]|Listen normally on 6 brcps ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:48:25.695675+08:00|ntpd[52225]|Listen normally on 7 lo ::1 UDP 123
+2021-03-12T00:48:25.695778+08:00|ntpd[52225]|Listen normally on 8 om-physnet2 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:48:25.695883+08:00|ntpd[52225]|Listen normally on 9 dt-physnet1 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:48:25.696022+08:00|ntpd[52225]|Listen normally on 10 external_om ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:48:25.696190+08:00|ntpd[52225]|Listen normally on 11 br-int ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:48:25.696346+08:00|ntpd[52225]|Listen normally on 12 external_api ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:48:25.696468+08:00|ntpd[52225]|Listen normally on 13 dt-physnet2 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:48:25.696595+08:00|ntpd[52225]|Listen normally on 14 br-physnet2 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:48:25.696691+08:00|ntpd[52225]|Listen normally on 15 arping-physnet1 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:48:25.696789+08:00|ntpd[52225]|Listen normally on 16 storage_data1 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:48:25.696899+08:00|ntpd[52225]|Listen normally on 17 ovs-netdev ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:48:25.696994+08:00|ntpd[52225]|Listen normally on 18 trunk0 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:48:25.697084+08:00|ntpd[52225]|Listening on routing socket on fd #35 for interface updates
+2021-03-12T00:48:25.697184+08:00|ntpd[52225]|0.0.0.0:0 c016 06 restart
+2021-03-12T00:48:25.697302+08:00|ntpd[52225]|0.0.0.0:0 c012 02 freq_set kernel 0.000 PPM
+2021-03-12T00:48:25.697420+08:00|ntpd[52225]|0.0.0.0:0 c011 01 freq_not_set
+2021-03-12T00:48:28.692870+08:00|ntpd[52225]|ntpd: time slew +0.001929 s
+2021-03-12T00:48:41.181+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:48:41.181+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:48:41.181+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:48:41.181+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:49:01.518267+08:00|systemd[-]|Started Session 1010254 of user cps.
+2021-03-12T00:49:01.524177+08:00|systemd[-]|Started Session 1010255 of user root.
+2021-03-12T00:49:01.542516+08:00|systemd[-]|Started Session 1010256 of user root.
+2021-03-12T00:49:01.546515+08:00|systemd[-]|Started Session 1010257 of user root.
+2021-03-12T00:49:41.181+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:49:41.181+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:49:41.181+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:49:41.181+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:50:00.327506+08:00|kernel[-]|[14605750.987461] bash (22678): drop_caches: 3
+2021-03-12T00:50:01.460126+08:00|systemd[-]|Started Session 1010259 of user root.
+2021-03-12T00:50:01.480759+08:00|systemd[-]|Started Session 1010260 of user root.
+2021-03-12T00:50:01.481280+08:00|systemd[-]|Started Session 1010258 of user root.
+2021-03-12T00:50:01.483104+08:00|systemd[-]|Started Session 1010262 of user cps.
+2021-03-12T00:50:01.484958+08:00|systemd[-]|Started Session 1010261 of user root.
+2021-03-12T00:50:08.076771+08:00|systemd[-]|Stopping irqbalance daemon...
+2021-03-12T00:50:08.077817+08:00|systemd[-]|Stopped irqbalance daemon.
+2021-03-12T00:50:09.985453+08:00|systemd[-]|Starting irqbalance daemon...
+2021-03-12T00:50:10.044421+08:00|systemd[-]|Started irqbalance daemon.
+2021-03-12T00:50:41.182+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:50:41.182+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:50:41.182+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:50:41.182+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:51:01.603699+08:00|systemd[-]|Started Session 1010264 of user cps.
+2021-03-12T00:51:01.607133+08:00|systemd[-]|Started Session 1010263 of user root.
+2021-03-12T00:51:01.615225+08:00|systemd[-]|Started Session 1010265 of user root.
+2021-03-12T00:51:01.637130+08:00|systemd[-]|Started Session 1010266 of user root.
+2021-03-12T00:51:41.182+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:51:41.182+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:51:41.182+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:51:41.182+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:52:01.883817+08:00|systemd[-]|Started Session 1010267 of user cps.
+2021-03-12T00:52:01.889308+08:00|systemd[-]|Started Session 1010268 of user root.
+2021-03-12T00:52:01.897130+08:00|systemd[-]|Started Session 1010269 of user root.
+2021-03-12T00:52:01.910274+08:00|systemd[-]|Started Session 1010270 of user root.
+2021-03-12T00:52:10.875384+08:00|MONITOR[20138]|Error: [smio_usr_send_req_to_jbod:311] connect error.
+2021-03-12T00:52:41.182+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:52:41.182+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:52:41.182+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:52:41.182+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:53:01.119471+08:00|systemd[-]|Started Session 1010271 of user cps.
+2021-03-12T00:53:01.128259+08:00|systemd[-]|Started Session 1010272 of user root.
+2021-03-12T00:53:01.130926+08:00|systemd[-]|Started Session 1010273 of user root.
+2021-03-12T00:53:01.143190+08:00|systemd[-]|Started Session 1010274 of user root.
+2021-03-12T00:53:29.691620+08:00|ntpd[57843]|ntpd 4.2.6p5@1.2349-o Tue Jun 16 22:13:22 UTC 2020 (1)
+2021-03-12T00:53:29.691791+08:00|ntpd[57843]|proto: precision = 0.043 usec
+2021-03-12T00:53:29.691921+08:00|ntpd[57843]|0.0.0.0:0 c01d 0d kern kernel time sync enabled
+2021-03-12T00:53:29.692826+08:00|ntpd[57843]|Listen and drop on 0 v4wildcard 0.0.0.0:0 UDP 123
+2021-03-12T00:53:29.694288+08:00|ntpd[57843]|Listen and drop on 1 v6wildcard :: UDP 123
+2021-03-12T00:53:29.694437+08:00|ntpd[57843]|Listen normally on 2 lo 0.0.0.0:0 UDP 123
+2021-03-12T00:53:29.694602+08:00|ntpd[57843]|Listen normally on 3 brcps 0.0.0.0:0 UDP 123
+2021-03-12T00:53:29.694736+08:00|ntpd[57843]|Listen normally on 4 storage_data1 0.0.0.0:0 UDP 123
+2021-03-12T00:53:29.694867+08:00|ntpd[57843]|Listen normally on 5 external_om 0.0.0.0:0 UDP 123
+2021-03-12T00:53:29.694998+08:00|ntpd[57843]|Listen normally on 6 brcps ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:53:29.695134+08:00|ntpd[57843]|Listen normally on 7 lo ::1 UDP 123
+2021-03-12T00:53:29.695280+08:00|ntpd[57843]|Listen normally on 8 om-physnet2 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:53:29.695416+08:00|ntpd[57843]|Listen normally on 9 dt-physnet1 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:53:29.695558+08:00|ntpd[57843]|Listen normally on 10 external_om ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:53:29.695694+08:00|ntpd[57843]|Listen normally on 11 br-int ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:53:29.695829+08:00|ntpd[57843]|Listen normally on 12 external_api ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:53:29.695959+08:00|ntpd[57843]|Listen normally on 13 dt-physnet2 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:53:29.696100+08:00|ntpd[57843]|Listen normally on 14 br-physnet2 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:53:29.696225+08:00|ntpd[57843]|Listen normally on 15 arping-physnet1 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:53:29.696342+08:00|ntpd[57843]|Listen normally on 16 storage_data1 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:53:29.696456+08:00|ntpd[57843]|Listen normally on 17 ovs-netdev ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:53:29.696585+08:00|ntpd[57843]|Listen normally on 18 trunk0 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:53:29.696695+08:00|ntpd[57843]|Listening on routing socket on fd #35 for interface updates
+2021-03-12T00:53:29.696804+08:00|ntpd[57843]|0.0.0.0:0 c016 06 restart
+2021-03-12T00:53:29.696912+08:00|ntpd[57843]|0.0.0.0:0 c012 02 freq_set kernel 0.000 PPM
+2021-03-12T00:53:29.697017+08:00|ntpd[57843]|0.0.0.0:0 c011 01 freq_not_set
+2021-03-12T00:53:32.692543+08:00|ntpd[57843]|ntpd: time slew +0.001927 s
+2021-03-12T00:53:41.182+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:53:41.182+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:53:41.182+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:53:41.182+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:54:01.454283+08:00|systemd[-]|Started Session 1010275 of user root.
+2021-03-12T00:54:01.457749+08:00|systemd[-]|Started Session 1010276 of user cps.
+2021-03-12T00:54:01.460288+08:00|systemd[-]|Started Session 1010277 of user root.
+2021-03-12T00:54:01.462850+08:00|systemd[-]|Started Session 1010278 of user root.
+2021-03-12T00:54:01.596162+08:00|rsyslogd[-]|imjournal: journal reloaded... [v8.24.0 try http://www.rsyslog.com/e/0 ]
+2021-03-12T00:54:41.182+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:54:41.182+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:54:41.182+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:54:41.182+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:55:01.536994+08:00|systemd[-]|Started Session 1010280 of user root.
+2021-03-12T00:55:01.538402+08:00|systemd[-]|Started Session 1010279 of user root.
+2021-03-12T00:55:01.539939+08:00|systemd[-]|Started Session 1010281 of user cps.
+2021-03-12T00:55:01.542230+08:00|systemd[-]|Started Session 1010282 of user root.
+2021-03-12T00:55:41.182+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:55:41.182+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:55:41.182+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:55:41.182+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:56:01.562920+08:00|systemd[-]|Started Session 1010283 of user cps.
+2021-03-12T00:56:01.568482+08:00|systemd[-]|Started Session 1010284 of user root.
+2021-03-12T00:56:01.570510+08:00|systemd[-]|Started Session 1010285 of user root.
+2021-03-12T00:56:01.577775+08:00|systemd[-]|Started Session 1010286 of user root.
+2021-03-12T00:56:41.182+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:56:41.182+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:56:41.182+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:56:41.182+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:57:01.422274+08:00|systemd[-]|Started Session 1010287 of user cps.
+2021-03-12T00:57:01.426113+08:00|systemd[-]|Started Session 1010288 of user root.
+2021-03-12T00:57:01.432123+08:00|systemd[-]|Started Session 1010290 of user root.
+2021-03-12T00:57:01.446394+08:00|systemd[-]|Started Session 1010289 of user root.
+2021-03-12T00:57:10.895810+08:00|MONITOR[10988]|Error: [smio_usr_send_req_to_jbod:311] connect error.
+2021-03-12T00:57:41.182+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:57:41.182+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:57:41.182+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:57:41.182+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:58:01.842611+08:00|systemd[-]|Started Session 1010291 of user root.
+2021-03-12T00:58:01.851112+08:00|systemd[-]|Started Session 1010292 of user root.
+2021-03-12T00:58:01.854655+08:00|systemd[-]|Started Session 1010294 of user root.
+2021-03-12T00:58:01.855135+08:00|systemd[-]|Started Session 1010293 of user cps.
+2021-03-12T00:58:33.698873+08:00|ntpd[50299]|ntpd 4.2.6p5@1.2349-o Tue Jun 16 22:13:22 UTC 2020 (1)
+2021-03-12T00:58:33.699055+08:00|ntpd[50299]|proto: precision = 0.044 usec
+2021-03-12T00:58:33.699202+08:00|ntpd[50299]|0.0.0.0:0 c01d 0d kern kernel time sync enabled
+2021-03-12T00:58:33.699638+08:00|ntpd[50299]|Listen and drop on 0 v4wildcard 0.0.0.0:0 UDP 123
+2021-03-12T00:58:33.700986+08:00|ntpd[50299]|Listen and drop on 1 v6wildcard :: UDP 123
+2021-03-12T00:58:33.701151+08:00|ntpd[50299]|Listen normally on 2 lo 0.0.0.0:0 UDP 123
+2021-03-12T00:58:33.701260+08:00|ntpd[50299]|Listen normally on 3 brcps 0.0.0.0:0 UDP 123
+2021-03-12T00:58:33.701381+08:00|ntpd[50299]|Listen normally on 4 storage_data1 0.0.0.0:0 UDP 123
+2021-03-12T00:58:33.701512+08:00|ntpd[50299]|Listen normally on 5 external_om 0.0.0.0:0 UDP 123
+2021-03-12T00:58:33.701627+08:00|ntpd[50299]|Listen normally on 6 brcps ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:58:33.701757+08:00|ntpd[50299]|Listen normally on 7 lo ::1 UDP 123
+2021-03-12T00:58:33.701866+08:00|ntpd[50299]|Listen normally on 8 om-physnet2 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:58:33.701952+08:00|ntpd[50299]|Listen normally on 9 dt-physnet1 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:58:33.702041+08:00|ntpd[50299]|Listen normally on 10 external_om ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:58:33.702127+08:00|ntpd[50299]|Listen normally on 11 br-int ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:58:33.702210+08:00|ntpd[50299]|Listen normally on 12 external_api ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:58:33.702292+08:00|ntpd[50299]|Listen normally on 13 dt-physnet2 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:58:33.702374+08:00|ntpd[50299]|Listen normally on 14 br-physnet2 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:58:33.702459+08:00|ntpd[50299]|Listen normally on 15 arping-physnet1 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:58:33.702590+08:00|ntpd[50299]|Listen normally on 16 storage_data1 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:58:33.702730+08:00|ntpd[50299]|Listen normally on 17 ovs-netdev ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:58:33.702865+08:00|ntpd[50299]|Listen normally on 18 trunk0 ffff::ffff:ffff:ffff:ffff UDP 123
+2021-03-12T00:58:33.702997+08:00|ntpd[50299]|Listening on routing socket on fd #35 for interface updates
+2021-03-12T00:58:33.703130+08:00|ntpd[50299]|0.0.0.0:0 c016 06 restart
+2021-03-12T00:58:33.703268+08:00|ntpd[50299]|0.0.0.0:0 c012 02 freq_set kernel 0.000 PPM
+2021-03-12T00:58:33.703398+08:00|ntpd[50299]|0.0.0.0:0 c011 01 freq_not_set
+2021-03-12T00:58:36.699943+08:00|ntpd[50299]|ntpd: time slew +0.001892 s
+2021-03-12T00:58:41.182+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:58:41.182+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:58:41.182+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:58:41.182+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:59:01.971362+08:00|systemd[-]|Started Session 1010295 of user root.
+2021-03-12T00:59:01.983976+08:00|systemd[-]|Started Session 1010298 of user root.
+2021-03-12T00:59:01.987175+08:00|systemd[-]|Started Session 1010296 of user cps.
+2021-03-12T00:59:01.990221+08:00|systemd[-]|Started Session 1010297 of user root.
+2021-03-12T00:59:41.182+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:59:41.182+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:59:41.182+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T00:59:41.182+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T00:59:56.998110+08:00|rsyslogd[-]|imjournal: journal reloaded... [v8.24.0 try http://www.rsyslog.com/e/0 ]
+2021-03-12T00:59:56.999027+08:00|rsyslogd[-]|imjournal: journal reloaded... [v8.24.0 try http://www.rsyslog.com/e/0 ]
+2021-03-12T01:00:00.087927+08:00|systemd[-]|Started OS dentry check.
+2021-03-12T01:00:01.236386+08:00|systemd[-]|Started Session 1010299 of user cps.
+2021-03-12T01:00:01.241387+08:00|systemd[-]|Started Session 1010301 of user root.
+2021-03-12T01:00:01.245579+08:00|systemd[-]|Started Session 1010300 of user root.
+2021-03-12T01:00:01.249005+08:00|systemd[-]|Started Session 1010302 of user root.
+2021-03-12T01:00:01.251565+08:00|systemd[-]|Started Session 1010303 of user root.
+2021-03-12T01:00:01.256579+08:00|systemd[-]|Started Session 1010304 of user root.
+2021-03-12T01:00:01.389510+08:00|kernel[-]|[14606352.044754] bash (18130): drop_caches: 3
+2021-03-12T01:00:41.182+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T01:00:41.182+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T01:00:41.182+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T01:00:41.182+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T01:01:01.976338+08:00|systemd[-]|Started Session 1010306 of user root.
+2021-03-12T01:01:01.978857+08:00|systemd[-]|Started Session 1010305 of user root.
+2021-03-12T01:01:01.984141+08:00|systemd[-]|Started Session 1010307 of user cps.
+2021-03-12T01:01:01.989526+08:00|systemd[-]|Started Session 1010308 of user root.
+2021-03-12T01:01:41.182+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T01:01:41.182+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T01:01:41.182+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: You are using the pipe() driver, underlying file is not a FIFO, it should be used by file(); filename='/dev/tty10'
+2021-03-12T01:01:41.182+08:00 CH-CH-XSK1B-3F01-R02C03U12-5GC-SVR-0017-HW2288V5 syslog-ng[39440]: Error opening file for writing; filename='/dev/tty10', error='Invalid argument (22)'
+2021-03-12T01:02:01.974730+08:00|systemd[-]|Started Session 1010309 of user cps.
+2021-03-12T01:02:01.977420+08:00|systemd[-]|Started Session 1010310 of user root.
+2021-03-12T01:02:01.985787+08:00|systemd[-]|Started Session 1010311 of user root.
+2021-03-12T01:02:01.990232+08:00|systemd[-]|Started Session 1010312 of user root.
