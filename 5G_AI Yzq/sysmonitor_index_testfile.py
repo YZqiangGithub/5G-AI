@@ -133,7 +133,7 @@ def spell_log(df_log, df_type='trian'):
         for idx, tokens in enumerate(params):
             if max_idx < idx:
                 max_idx = idx
-            params_dict[f'param{idx}'] = vocab[tokens]
+            params_dict[f'param{idx}'] = int(vocab[tokens])
         df_filter = df_filter.append(params_dict, ignore_index=True)
 
     df_filter['TimeSlice'] = df_log['TimeSlice']
@@ -144,7 +144,9 @@ def spell_log(df_log, df_type='trian'):
 
     col_seq = ['Labels', 'TimeSlice', 'EventId']
     col_seq.extend(['param'+str(idx) for idx in range(max_idx+1)]) #确定csv文件中各列的排列顺序
-    df_filter.to_csv(f'./tmpdata/struct/{df_type}_digdata.csv', index=False, columns=col_seq, na_rep=0)
+    df_filter = df_filter.fillna(0)
+    df_filter = df_filter.astype(int)
+    df_filter.to_csv(f'./tmpdata/struct/{df_type}_digdata.csv', index=False, columns=col_seq)
 
     return df_log
 
@@ -161,9 +163,9 @@ if __name__ == '__main__':
         if not os.path.exists(f'tmpdata/{path}'):
             os.makedirs(f'tmpdata/{path}')
 
-    print('extract sysmonitor trian data')
+    print('extract sysmonitor train data')
     df_train_syslog = get_syscnt(train_sysmonitor_path, syslog_format)  #读取到的log
-    df_train_syslog = spell_log(df_train_syslog, df_type='sys_trian')   #做生成经过日志模板提取， 参数提取之后的df_log
+    df_train_syslog = spell_log(df_train_syslog, df_type='sys_train')   #做生成经过日志模板提取， 参数提取之后的df_log
 
 
     # print('extract messages train data')
