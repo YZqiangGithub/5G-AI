@@ -4,10 +4,14 @@ from torch import nn, optim
 from torch.utils.data import DataLoader, Dataset
 import torch.nn.functional as F
 
+MAX_WORDS = 114
+MAX_LEN = 13
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-MAX_WORDS = 114
-MAX_LEN = 14
+MAX_SYS_WORDS = 18
+MAX_MSG_WORDs = 53
+MAX_SYS_LEN = 58
+MAX_MSG_LEN = 170
 EMB_SIZE = 128
 HID_SIZE = 128
 DROPOUT = 0.2
@@ -52,12 +56,12 @@ class LogModel(nn.Module):
         return out
 
 if __name__ == '__main__':
-    csv_path = 'tmpdata/struct/sys_train_digdata.csv'
+    csv_path = 'tmpdata/struct/sys_train_evtiddata.csv'
     dataset = SysLogDataset(csv_path)
     trainloader = DataLoader(dataset, batch_size= BATCH_SIZE, shuffle=True, num_workers=1)
 
 
-    logmodel = LogModel(vocab_size=MAX_WORDS, embedding_dim=MAX_LEN, hidden_dim=HID_SIZE, dropout=DROPOUT).to(device)
+    logmodel = LogModel(vocab_size=MAX_SYS_WORDS, embedding_dim=MAX_SYS_LEN, hidden_dim=HID_SIZE, dropout=DROPOUT).to(device)
     print(f'train on {device}')
     optimizer = optim.Adam(logmodel.parameters(), lr=lr)
     criterion = nn.CrossEntropyLoss()

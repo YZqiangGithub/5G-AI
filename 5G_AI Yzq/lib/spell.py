@@ -188,7 +188,7 @@ class lcsmap():
         self._refmt = refmt
         self._lcsobjs = []
         self._lineid = 0
-        self._id = 0
+        self._id = 1
         return
 
     def insert(self, entry):
@@ -232,7 +232,7 @@ class lcsmap():
             l = obj.getlcs(seq)
             # l代表seq和obj中相同的元素个数
 
-            if l >= seqlen / 2 and l > bestmatch_len:
+            if l > seqlen / 2 and l > bestmatch_len:
                 bestmatch = obj
                 bestmatch_len = l
         # print(bestmatch)
@@ -250,5 +250,3 @@ class lcsmap():
         for i in self._lcsobjs:
             print(count, i.tojson())
             count += 1
-
-
