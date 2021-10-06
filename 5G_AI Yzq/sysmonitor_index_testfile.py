@@ -4,6 +4,7 @@ import sys
 from lib import spell
 import re
 import os
+from tqdm import tqdm
 
 import pandas as pd
 from lib.common import save, load, Vocab
@@ -114,12 +115,14 @@ def spell_log(df_log, df_type='trian', sysmonitor=True):
     spell_result_path = 'tmpdata/SpellResult/sysspell.pkl' if sysmonitor else './tmpdata/SpellResult/msgspell.pkl'
     if os.path.isfile(spell_result_path):
         # 加载保存好的结果
+        print('加载日志键结果')
         slm = load(spell_result_path)
     else:
         # 首先训练一边，找出所需日志键，保存到文件中
         # 要选取能覆盖所有日志类型的数据来训练
+        print('开始提取日志键')
         slm = spell.lcsmap(r'[\s|\||\[|\]|=]+')
-        for i in range(len(df_log)):
+        for i in tqdm(range(len(df_log))):
             log_message = df_log['Content'][i]
             sub = log_message.strip('\n')
             sub = re.sub('\[\d+\]', '[~]', sub)
@@ -132,8 +135,8 @@ def spell_log(df_log, df_type='trian', sysmonitor=True):
     ids = [0] * df_log.shape[0]
     ParamsList = [0] * df_log.shape[0]
     # Labels = [0] * df_log.shape[0]
-
-    for i in range(len(df_log)):
+    print('开始提取日志数据')
+    for i in tqdm(range(len(df_log))):
         log_message = df_log['Content'][i].strip()
         log_message = re.sub('\[\d+\]', '[~]', log_message)
         log_message = re.sub('\(\d+\)', '(~)', log_message)
