@@ -128,6 +128,7 @@ def spell_log(df_log, df_type='trian', sysmonitor=True):
             sub = log_message.strip('\n')
             sub = re.sub('\[\d+\]', '[~]', sub)
             sub = re.sub('\(\d+\)', '(~)', sub)
+            sub = re.sub('\d+_\d+\+\d+_\d+', '$', sub)
             slm.insert(sub)
         save(spell_result_path, slm)
 
@@ -141,6 +142,7 @@ def spell_log(df_log, df_type='trian', sysmonitor=True):
         log_message = df_log['Content'][i].strip()
         log_message = re.sub('\[\d+\]', '[~]', log_message)
         log_message = re.sub('\(\d+\)', '(~)', log_message)
+        log_message = re.sub('\d+_\d+\+\d+_\d+', '$', log_message)
         obj = slm.insert(log_message)
         obj_json = obj.tojson(log_message)
         templates[i] = obj_json['lcsseq']
@@ -353,7 +355,7 @@ if __name__ == '__main__':
     message_format_v2 = '<TimeSlice> <Content>'
 
     train_sysmonitor_path = "./dataset/sysmoniter.txt"
-    train_messages_path = "./dataset/messages.txt"
+    train_messages_path = "./dataset/messages_trainset.txt"
     test_sysmonitor_path = './dataset/sysmonitor_testset.txt'
     test_messages_path = './dataset/messages_testset.txt'
 
